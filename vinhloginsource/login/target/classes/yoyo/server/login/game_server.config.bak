@@ -1,0 +1,189 @@
+#游戏服务器设置
+
+
+#各游戏服务器运行状态检查间隔时间(毫秒)
+interval_of_game_server_status_checking=5000
+
+#扫描列表中的游戏服务器运行状态时间
+interval_of_refreshing_sequence=3200
+
+#服务器排序(人数从少到多)延迟时间(毫秒)
+interval_of_server_sort_delay=300000
+#服务器排序(人数从少到多)间隔时间(毫秒)
+interval_of_server_sort=30000
+
+#################################
+###          游戏信息         ###
+#################################
+
+#游戏当前版本
+game_current_version=2.0.0
+
+#游戏可兼容最低版本
+game_compatible_versions=2.0.0
+
+#游戏下载地址
+#game_download_url=http://shen.uen.cn
+
+#当前渠道数量
+game_publisher_num=12
+
+#每个渠道对应的下载地址
+# 0-默认
+game_publisher_download_url_0=http://112.25.14.24/usercenter/down.php
+# 1-九游
+game_publisher_download_url_1=http://xjol.9game.cn/Index.Aspx?SessionId=310cdeef8fe2757c44c83c6fa96a4660&P=BBS_BOARD_DOWN
+# 2-当乐
+game_publisher_download_url_2=http://3g.d.cn/334?pfk=882
+# 3-乐讯
+game_publisher_download_url_3=http://yx.lexun.com/index.aspx?page_item_id=729
+# 4-手游天下
+game_publisher_download_url_4=http://155.cn/netcom_list.php?id=351
+# 5-一起手游
+game_publisher_download_url_5=http://d.17sy.com/select.jsp?cid=210&k=AAAA0004D52402D&p=aaaa000&sn=1holcag4s5fpvi58p3a9ji0927
+# 6-手闲
+game_publisher_download_url_6=http://soxan.cn/netgame/D.asp?id=35743&M=3971&q=5
+# 7-宝软
+game_publisher_download_url_7=http://baoruan.com/download/downpage/down/subid/1200551/id/1200057/mid/146
+# 8-飞流下载
+game_publisher_download_url_8=http://m.feiliu.com/view.fl?c=-1430691&r=150932&p=3301&ch=503&f=66
+# 9-玩沙网
+game_publisher_download_url_9=http://wap.wap3.cn/gamedetail.jsp?gameId=21469&uid=0&p=&mid=0&cid=0
+# 10.捉鱼网
+game_publisher_download_url_10=http://wap.3gyou.cn/5054243,0,sgresinfool!KXcyLSordzAuMS4yLC4q
+# 11.魔泡网
+game_publisher_download_url_11=http://wap.mopop.com.cn/games/showgames.asp?did=20113181607978
+
+*
+#服务器人数状态--爆满人数(应该和每个服务器的最多在线玩家数量一样)
+game_status_full_player_number=2000
+#服务器人数状态--拥挤人数
+game_status_crowd_player_number=200
+
+#获取白名单接口URL
+get_phone_url=http://220.194.54.98:8000/zdxn.php?u=
+#获取账号ID  URL
+GET_ACCOUNT_ID_URL=http://112.25.14.24:80/usercenter/createpassportid.php
+#注册信息录入接口
+REGISTE_TO_USER_CENTER_URL=http://112.25.14.24:80/usercenter/register.php
+#密码修改接口
+UPDATE_PASSWORD_TO_USER_CENTER_URL=http://112.25.14.24:80/usercenter/changepass.php
+
+#获取两个网游游戏下载地址的URL接口
+download_ng_game_url = http://112.25.14.24/ota/panel/cmgame.php
+#可用下载机型
+download_agent=NokiaE52
+#下载大小
+download_size=20
+
+#移动登录地址
+mobile_login_url_1=http://gmp.i139.cn/bizcontrol/LoginOnlineGame?sender=202&cpId=C00216&cpServiceId=120122080000&fid=1000
+moblie_login_url_2=http://gmp.i139.cn/bizcontrol/LoginOnlineGame?sender=202&cpId=C00227&cpServiceId=120122078000&fid=1000
+
+#短信密码找回接口
+sms_url=http://112.25.14.24/usercenter/getpassbysms.php
+
+#Loaing提示滚屏延迟时间(秒)
+roll_lady_time=2
+
+#是否显示关闭的服务器 yes:显示   no:不显示
+show_down_server=yes
+
+#################################
+###      游戏服务器列表       ###
+#################################
+
+#游戏服务器的数量
+game_server_number=4
+
+#######游戏服务器信息(1)#######
+#游戏服务器编号
+game_server1_ID=1
+#游戏服务器名称
+game_server_1_name=1 区 冰晶雪岭
+#游戏服务器在列表中的显示顺序
+game_server_1_view_sequence=1
+#游戏服务器允许的同时最多在线玩家数量
+game_server_1_max_online_number_limit=2000
+#游戏服务IP
+game_server_1_rmi_remote_host=localhost
+#游戏服务端口
+game_server_1_rmi_port=10001
+#游戏服务RMI名
+game_server_1_rmi_object=hero1
+#客户端HTTP协议连接URL
+game_server_1_http_url_address=60.195.248.119:7201
+#客户端HTTP协议连接映射
+game_server_1_http_url_context=/
+#客户端TCP协议连接URL
+game_server_1_tcp_url=60.195.248.119:30001
+###############################
+
+#######游戏服务器信息(2)#######
+#游戏服务器编号
+game_server2_ID=2
+#游戏服务器名称
+game_server_2_name=2 区 龙骨望崖
+#游戏服务器在列表中的显示顺序
+game_server_2_view_sequence=2
+#游戏服务器允许的同时最多在线玩家数量
+game_server_2_max_online_number_limit=2000
+#游戏服务IP
+game_server_2_rmi_remote_host=localhost
+#游戏服务端口
+game_server_2_rmi_port=10002
+#游戏服务RMI名
+game_server_2_rmi_object=xj
+#客户端HTTP协议连接URL
+game_server_2_http_url_address=60.195.248.119:7202
+#客户端HTTP协议连接映射
+game_server_2_http_url_context=/
+#客户端TCP协议连接URL
+game_server_2_tcp_url=60.195.248.119:30002
+###############################
+
+#######游戏服务器信息(3)#######
+#游戏服务器编号
+game_server3_ID=3
+#游戏服务器名称
+game_server_3_name=3 区 光芒禁地(27上)
+#游戏服务器在列表中的显示顺序
+game_server_3_view_sequence=3
+#游戏服务器允许的同时最多在线玩家数量
+game_server_3_max_online_number_limit=2000
+#游戏服务IP
+game_server_3_rmi_remote_host=112.25.14.27
+#游戏服务端口
+game_server_3_rmi_port=8302
+#游戏服务RMI名
+game_server_3_rmi_object=hero1
+#客户端HTTP协议连接URL
+game_server_3_http_url_address=112.25.14.27:30001
+#客户端HTTP协议连接映射
+game_server_3_http_url_context=/
+#客户端TCP协议连接URL
+game_server_3_tcp_url=112.25.14.27:30001
+###############################
+
+#######游戏服务器信息(4)#######
+#游戏服务器编号
+game_server4_ID=4
+#游戏服务器名称
+game_server_4_name=连四区2(27上，同3区)
+#游戏服务器在列表中的显示顺序
+game_server_4_view_sequence=4
+#游戏服务器允许的同时最多在线玩家数量
+game_server_4_max_online_number_limit=2000
+#游戏服务IP
+game_server_4_rmi_remote_host=112.25.14.27
+#游戏服务端口
+game_server_4_rmi_port=8302
+#游戏服务RMI名
+game_server_4_rmi_object=hero1
+#客户端HTTP协议连接URL
+game_server_4_http_url_address=112.25.14.27:30001
+#客户端HTTP协议连接映射
+game_server_4_http_url_context=/
+#客户端TCP协议连接URL
+game_server_4_tcp_url=112.25.14.27:30001
+###############################

@@ -1,0 +1,359 @@
+2011-02-20 07:47:03,203 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 07:51:31,859 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 09:15:48,171 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 09:16:45,531 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 10:07:06,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-02-20 10:07:30,671 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-02-20 10:07:30,703 [main] INFO  ME2 - 账号统计已启动
+2011-02-20 10:47:59,687 [http-7000-Processor22] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:164)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1479)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1246)
+	at me2.server.login.LoginService.process(LoginService.java:286)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-02-20 10:47:59,687 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 10:48:00,703 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 10:50:36,718 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 10:50:38,218 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 10:50:59,343 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 10:54:57,703 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 10:59:07,640 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 11:08:44,484 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 11:08:45,890 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 11:09:11,312 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 11:09:13,250 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 11:15:33,359 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 11:17:35,375 [http-7000-Processor24] INFO  ME2 - response is null
+2011-02-20 11:17:37,421 [http-7000-Processor24] INFO  ME2 - response is null
+2011-02-20 11:23:56,640 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 11:28:59,500 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:164)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1479)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1246)
+	at me2.server.login.LoginService.process(LoginService.java:286)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-02-20 11:28:59,500 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 11:29:03,703 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 11:29:35,703 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 11:29:37,171 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 12:05:05,453 [http-7000-Processor21] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:164)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1479)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1246)
+	at me2.server.login.LoginService.process(LoginService.java:286)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-02-20 12:05:05,453 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 12:26:25,656 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 13:05:52,500 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 13:28:12,250 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 13:28:24,406 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 13:50:39,843 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 13:51:31,265 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 13:51:38,312 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 14:00:26,156 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 14:00:27,484 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 14:01:04,250 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 14:01:10,015 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 14:02:56,234 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 14:02:59,953 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 14:06:31,062 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 14:13:36,781 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 14:18:47,187 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 14:38:53,171 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 14:38:55,437 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 15:19:50,093 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 15:19:53,625 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 15:27:29,328 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 15:27:54,265 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 15:28:30,875 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 15:28:32,750 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 16:31:05,718 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:164)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1479)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1246)
+	at me2.server.login.LoginService.process(LoginService.java:286)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-02-20 16:31:05,718 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 16:31:33,453 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 16:31:36,046 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 16:33:15,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-02-20 16:33:39,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-02-20 16:33:39,328 [main] INFO  ME2 - 账号统计已启动
+2011-02-20 16:34:15,375 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 16:34:17,125 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 16:48:51,750 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 16:49:12,453 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 16:49:38,250 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 16:49:39,671 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 16:53:03,375 [http-7000-Processor23] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.createSession(GameService.java:287)
+	at me2.server.login.LoginService.enterGame(LoginService.java:1689)
+	at me2.server.login.LoginService.process(LoginService.java:333)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-02-20 16:53:03,375 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 16:53:09,468 [http-7000-Processor24] INFO  ME2 - response is null
+2011-02-20 16:53:21,781 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 16:53:41,812 [http-7000-Processor22] INFO  ME2 - response is null
+2011-02-20 16:54:53,203 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 16:54:58,796 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 17:16:00,343 [http-7000-Processor23] INFO  ME2 - response is null
+2011-02-20 17:16:14,687 [http-7000-Processor24] INFO  ME2 - response is null
+2011-02-20 17:21:40,015 [http-7000-Processor21] INFO  ME2 - response is null
+2011-02-20 17:24:28,312 [http-7000-Processor24] INFO  ME2 - response is null
+2011-02-20 18:28:07,234 [http-7000-Processor22] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-02-20 18:28:10,953 [http-7000-Processor25] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-02-20 18:28:12,812 [http-7000-Processor24] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-02-20 18:28:16,859 [http-7000-Processor21] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-02-20 18:28:27,359 [http-7000-Processor23] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-02-20 18:44:54,468 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 18:44:56,296 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 19:25:25,093 [http-7000-Processor25] INFO  ME2 - response is null
+2011-02-20 19:44:19,671 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 19:44:21,468 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 20:19:15,171 [http-7000-Processor20] INFO  ME2 - response is null
+2011-02-20 22:53:18,328 [http-7000-Processor25] INFO  ME2 - response is null

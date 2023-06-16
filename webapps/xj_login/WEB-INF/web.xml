@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" version="2.4">
+  <display-name>R_Hero</display-name>
+  <servlet>
+    <servlet-name>loginservlet</servlet-name>
+    <servlet-class>yoyo.server.loginserver.LoginServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+  <servlet>
+    <servlet-name>setmsisdn</servlet-name>
+    <servlet-class>yoyo.server.loginserver.SetAccountMsisdn</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+   <servlet>
+    <servlet-name>szfcallback</servlet-name>
+    <servlet-class>yoyo.server.loginserver.SzfCallBack</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+  <servlet>
+    <servlet-name>smscallback</servlet-name>
+    <servlet-class>yoyo.server.loginserver.SmsCallBack</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+   <servlet>
+    <servlet-name>resetplayer</servlet-name>
+    <servlet-class>yoyo.server.loginserver.ResetPlayerStatus</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+   <servlet-mapping>
+    <servlet-name>loginservlet</servlet-name>
+    <url-pattern>/xj_login</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>setmsisdn</servlet-name>
+    <url-pattern>/hero_set_msisdn</url-pattern>
+  </servlet-mapping>
+
+ <servlet-mapping>
+    <servlet-name>szfcallback</servlet-name>
+    <url-pattern>/xj_szfcallback</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>resetplayer</servlet-name>
+    <url-pattern>/xj_resetplayer</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>smscallback</servlet-name>
+    <url-pattern>/xj_smscallback</url-pattern>
+  </servlet-mapping>
+
+</web-app>
+

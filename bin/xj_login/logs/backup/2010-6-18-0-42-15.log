@@ -1,0 +1,32 @@
+2010-06-17 13:33:46,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-17 13:33:46,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-17 15:02:59,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-17 15:03:00,140 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-17 15:10:37,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-17 15:10:38,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-17 15:28:06,109 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-06-17 15:28:06,109 [http-7000-Processor25] INFO  ME2 - response is null
+2010-06-17 15:42:15,765 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-17 15:42:37,281 [main] INFO  ME2 - 昵称过滤列表加载完毕

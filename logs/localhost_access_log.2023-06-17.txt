@@ -1,0 +1,12 @@
+127.0.0.1 - - [17/Jun/2023:00:05:51 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 272
+127.0.0.1 - - [17/Jun/2023:00:05:59 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 71
+127.0.0.1 - - [17/Jun/2023:00:05:59 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 25
+127.0.0.1 - - [17/Jun/2023:00:06:00 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 100
+127.0.0.1 - - [17/Jun/2023:00:06:00 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 253
+127.0.0.1 - - [17/Jun/2023:00:06:01 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 61
+127.0.0.1 - - [17/Jun/2023:00:08:23 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 272
+127.0.0.1 - - [17/Jun/2023:00:08:31 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 71
+127.0.0.1 - - [17/Jun/2023:00:08:31 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 25
+127.0.0.1 - - [17/Jun/2023:00:08:32 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 100
+127.0.0.1 - - [17/Jun/2023:00:08:32 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 253
+127.0.0.1 - - [17/Jun/2023:00:08:34 +0700] "GET /xj_login/xj_login HTTP/1.1" 200 61

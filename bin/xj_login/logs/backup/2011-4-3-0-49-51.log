@@ -1,0 +1,582 @@
+2011-04-02 09:52:16,171 [http-7000-Processor22] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:165)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1689)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1453)
+	at me2.server.login.LoginService.process(LoginService.java:362)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:26)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-04-02 09:52:16,171 [http-7000-Processor22] INFO  ME2 - response is null
+2011-04-02 11:03:27,250 [http-7000-Processor19] INFO  ME2 - ResetPlayerStatus accoountid= 
+2011-04-02 11:03:27,250 [http-7000-Processor19] ERROR ME2 - 
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:48)
+	at java.lang.Integer.parseInt(Integer.java:470)
+	at java.lang.Integer.parseInt(Integer.java:499)
+	at loginserver.ResetPlayerStatus.doGet(ResetPlayerStatus.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-04-02 11:03:36,843 [http-7000-Processor19] INFO  ME2 - ResetPlayerStatus accoountid= 1
+2011-04-02 11:05:50,296 [http-7000-Processor22] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 11:05:58,796 [http-7000-Processor19] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 11:06:50,250 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= null
+2011-04-02 11:06:50,250 [http-7000-Processor20] ERROR ME2 - 
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:417)
+	at java.lang.Integer.parseInt(Integer.java:499)
+	at loginserver.ResetPlayerStatus.doGet(ResetPlayerStatus.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-04-02 11:07:17,390 [http-7000-Processor19] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 11:07:25,187 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 11:24:29,859 [http-7000-Processor19] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 11:42:25,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-02 11:42:26,562 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-02 11:42:26,906 [main] INFO  ME2 - 账号统计已启动
+2011-04-02 12:35:58,703 [http-7000-Processor19] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 13:02:05,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-02 13:02:27,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-02 13:02:27,390 [main] INFO  ME2 - 账号统计已启动
+2011-04-02 13:11:31,031 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:40:33,500 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:40:37,609 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:40:43,656 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:40:52,468 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:41:02,328 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:41:18,531 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:42:43,734 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:42:53,406 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:43:10,453 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:44:39,703 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:46:06,125 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:49:38,625 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:50:51,421 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:51:45,187 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:52:20,796 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:53:04,359 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:53:53,875 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:53:55,484 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:54:04,312 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:54:20,406 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:54:35,078 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 13:56:41,000 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 4000
+2011-04-02 13:57:51,437 [http-7000-Processor25] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 13:58:11,593 [http-7000-Processor18] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:13:54,218 [http-7000-Processor20] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:34:24,796 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 34000
+2011-04-02 14:41:24,531 [http-7000-Processor18] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:41:58,328 [http-7000-Processor24] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:42:33,625 [http-7000-Processor25] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:43:00,531 [http-7000-Processor17] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:43:30,250 [http-7000-Processor20] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:43:43,390 [http-7000-Processor24] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:48:23,015 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 14:48:35,093 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 14:49:35,562 [http-7000-Processor18] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:51:06,828 [http-7000-Processor18] ERROR ME2 - 
+ClientAbortException:  java.net.SocketException: Connection reset by peer: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:327)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:97)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:30)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:92)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:136)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:746)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:433)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:304)
+	at org.apache.coyote.http11.Http11Processor.action(Http11Processor.java:991)
+	at org.apache.coyote.Response.action(Response.java:182)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:322)
+	... 19 more
+2011-04-02 14:53:26,578 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 14:53:33,375 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 14:53:43,187 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:00:09,625 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:00:17,562 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:22:00,015 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:22:14,140 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:22:24,578 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:22:34,046 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:22:56,593 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:25:52,671 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:33:57,000 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:34:05,875 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:34:11,984 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:34:18,015 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:40:00,265 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 15:42:14,312 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 15:42:23,171 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 15:42:29,890 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 15:44:57,421 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 15:47:19,875 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 34052
+2011-04-02 15:47:25,468 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 34052
+2011-04-02 15:47:30,406 [http-7000-Processor20] INFO  ME2 - ResetPlayerStatus accoountid= 34052
+2011-04-02 15:48:05,625 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 34052
+2011-04-02 15:56:50,421 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 15:57:07,390 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 15:57:18,156 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 15:57:40,437 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 15:57:48,343 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 15:57:53,500 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 16:04:21,718 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 16:06:55,859 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 16:07:01,781 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 16:37:03,109 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 16:37:36,093 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 16:38:30,093 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 111760
+2011-04-02 16:43:02,765 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 16:43:31,265 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 16:43:50,968 [http-7000-Processor18] INFO  ME2 - ResetPlayerStatus accoountid= 33906
+2011-04-02 16:44:02,921 [http-7000-Processor24] INFO  ME2 - ResetPlayerStatus accoountid= 33906
+2011-04-02 16:55:20,109 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 17:05:51,828 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 17:05:59,937 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 17:06:21,468 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 6287
+2011-04-02 17:06:47,546 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:06:51,796 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:06:56,593 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:30:33,625 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:31:25,859 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 33947
+2011-04-02 17:39:09,750 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:39:14,250 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:39:19,218 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:39:27,625 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:39:33,828 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 112006
+2011-04-02 17:46:56,453 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 21167
+2011-04-02 17:47:08,093 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21167
+2011-04-02 17:50:42,125 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 17:50:51,703 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 17:54:08,125 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 17:54:15,234 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 17:55:05,125 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 35095
+2011-04-02 17:55:48,250 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 35095
+2011-04-02 17:57:24,578 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21191
+2011-04-02 17:57:47,078 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 17:57:50,703 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 17:58:20,578 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21191
+2011-04-02 17:58:56,093 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 17:59:41,500 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:05,718 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 18:00:14,703 [http-7000-Processor25] INFO  ME2 - ResetPlayerStatus accoountid= 21189
+2011-04-02 18:00:14,703 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:19,281 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:22,500 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:28,609 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:32,140 [http-7000-Processor23] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 18:00:35,218 [http-7000-Processor17] INFO  ME2 - ResetPlayerStatus accoountid= 21535
+2011-04-02 19:49:51,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-02 19:50:12,875 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-02 19:50:13,234 [main] INFO  ME2 - 账号统计已启动

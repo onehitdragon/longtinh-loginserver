@@ -1,0 +1,35 @@
+2009-10-10 17:33:16,500 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2009-10-10 17:33:18,110 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2009-10-12 09:42:48,671 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2009-10-12 09:42:50,265 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2009-10-12 14:19:20,062 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2009-10-12 14:19:21,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2009-10-12 14:32:59,046 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2009-10-12 14:33:00,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2009-10-12 15:09:18,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2009-10-12 15:09:20,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2009-10-12 16:47:11,875 [http-3333-Processor24] ERROR ME2 - me2.server.login.LoginService@746ad0
+java.io.EOFException
+	at java.io.DataInputStream.readFully(DataInputStream.java:180)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:592)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:547)
+	at me2.server.login.util.ME2InputStream.readUTF(ME2InputStream.java:78)
+	at me2.server.login.LoginService.process(LoginService.java:159)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2009-10-12 16:47:11,875 [http-3333-Processor24] INFO  ME2 - response is null

@@ -1,0 +1,17 @@
+[2011-04-16 15:43:18,515]-INFO  (me2.server.login.LoginService:472)|请求网游游戏下载地址: moblieuserid=04766973
+[2011-04-16 15:43:18,781]-INFO  (me2.server.login.util.HttpConnUtil:219)|ng game download hero = hero>http://gamepie.i139.cn/wap/s.do?j=742channel, jiutian=jiutian>http://gamepie.i139.cn/wap/s.do?j=741channel
+[2011-04-16 15:43:18,781]-INFO  (me2.server.login.LoginService:579)|hero > http://gamepie.i139.cn/wap/s.do?j=742channel
+[2011-04-16 15:43:18,781]-INFO  (me2.server.login.LoginService:579)|jiutian > http://gamepie.i139.cn/wap/s.do?j=741channel
+[2011-04-16 15:45:36,250]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112212
+[2011-04-16 15:45:36,265]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112212,userID=19514,sequence=0,mapsize=1
+[2011-04-16 15:45:39,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 1244
+[2011-04-16 15:47:15,953]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=0,orderid=20110416-114794-1302939988,addpoint=0
+[2011-04-16 15:47:15,953]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110416-114794-1302939988
+[2011-04-16 15:47:15,953]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 18466769(com.mysql.jdbc.Connection@18d7215)
+[2011-04-16 15:47:15,953]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110416-114794-1302939988'
+[2011-04-16 15:47:15,953]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-16 17:22:38,750]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-16 17:22:38,765]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-16 17:22:38,765]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=1,mapsize=1
+[2011-04-16 17:22:38,765]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19438,sequence=2,mapsize=1
+[2011-04-16 17:22:42,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 1246

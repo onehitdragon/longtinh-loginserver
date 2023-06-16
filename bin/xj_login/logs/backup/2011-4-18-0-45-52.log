@@ -1,0 +1,85 @@
+2011-04-17 10:52:47,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-17 10:53:09,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-17 10:53:09,734 [main] INFO  ME2 - 账号统计已启动
+2011-04-17 11:33:22,437 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:165)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1897)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1661)
+	at me2.server.login.LoginService.process(LoginService.java:377)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:26)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-04-17 11:33:22,437 [http-7000-Processor25] INFO  ME2 - response is null
+2011-04-17 11:38:06,921 [http-7000-Processor23] INFO  ME2 - response is null
+2011-04-17 11:51:47,687 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 12:07:30,234 [http-7000-Processor25] INFO  ME2 - response is null
+2011-04-17 13:01:45,203 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 13:27:59,609 [http-7000-Processor25] INFO  ME2 - response is null
+2011-04-17 13:43:01,437 [http-7000-Processor21] INFO  ME2 - response is null
+2011-04-17 14:10:00,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-17 14:10:22,015 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-17 14:10:22,359 [main] INFO  ME2 - 账号统计已启动
+2011-04-17 14:21:58,421 [http-7000-Processor23] INFO  ME2 - response is null
+2011-04-17 14:27:24,546 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 14:32:40,937 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:165)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1998)
+	at me2.server.login.LoginService.selectServer(LoginService.java:1762)
+	at me2.server.login.LoginService.process(LoginService.java:377)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:26)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2011-04-17 14:32:40,937 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 14:35:27,765 [http-7000-Processor25] INFO  ME2 - response is null
+2011-04-17 14:41:01,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-17 14:41:23,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-17 14:41:23,156 [main] INFO  ME2 - 账号统计已启动
+2011-04-17 14:46:40,281 [http-7000-Processor23] INFO  ME2 - response is null
+2011-04-17 15:51:37,671 [http-7000-Processor25] INFO  ME2 - response is null
+2011-04-17 15:55:09,281 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 16:04:58,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-17 16:05:19,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-17 16:05:19,812 [main] INFO  ME2 - 账号统计已启动
+2011-04-17 16:14:51,484 [http-7000-Processor20] INFO  ME2 - response is null
+2011-04-17 16:22:40,843 [http-7000-Processor22] INFO  ME2 - response is null
+2011-04-17 16:41:32,765 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 16:45:08,875 [http-7000-Processor21] INFO  ME2 - response is null
+2011-04-17 16:47:18,015 [http-7000-Processor21] INFO  ME2 - response is null
+2011-04-17 16:48:29,156 [http-7000-Processor22] INFO  ME2 - response is null
+2011-04-17 17:49:02,234 [http-7000-Processor22] INFO  ME2 - response is null
+2011-04-17 18:08:10,312 [http-7000-Processor24] INFO  ME2 - response is null
+2011-04-17 18:45:52,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2011-04-17 18:46:14,750 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2011-04-17 18:46:14,796 [main] INFO  ME2 - 账号统计已启动
+2011-04-17 19:20:42,218 [http-7000-Processor25] INFO  ME2 - 神州付回调结果 result=0,orderID=20110417-114794-1303039235,addpoint=0
+2011-04-17 20:23:08,671 [http-7000-Processor22] INFO  ME2 - 神州付回调结果 result=0,orderID=20110417-114794-1303042981,addpoint=0

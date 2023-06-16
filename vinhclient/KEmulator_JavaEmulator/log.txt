@@ -1,0 +1,502 @@
+KEmulator Lite v0.9.8 Running...
+Get classes from C:\Users\VINH\Downloads\Recaf\target\abc2.jar
+Get class aj
+Get class g
+Get class y
+Get class ca
+Get class cs
+Get class ba
+Get class bs
+Get class aa
+Get class javak.microedition.lcdui.Kalvaz$key
+Get class as
+Get class cw
+Get class p
+Get class bw
+Get class cj
+Get class ae
+Get class aw
+Get class bj
+Get class t
+Get class cn
+Get class bn
+Get class x
+Get class an
+Get class cr
+Get class k
+Get class javak.microedition.midlet.MiDlet$EI
+Get class br
+Get class ce
+Get class javak.microedition.lcdui.Kalvazkey
+Get class ar
+Get class be
+Get class o
+Get class ci
+Get class av
+Get class bi
+Get class s
+Get class ai
+Get class cm
+Get class f
+Get class bm
+Get class am
+Get class j
+Get class cd
+Get class cv
+Get class aq
+Get class bd
+Get class bv
+Get class n
+Get class ad
+Get class javak.microedition.midlet.MiDletKeySelector
+Get class javak.microedition.lcdui.KalvazAutoClick
+Get class javak.microedition.lcdui.Form
+Get class a
+Get class bh
+Get class bz
+Get class javak.microedition.lcdui.Kalvaz$AutoClick
+Get class ah
+Get class az
+Get class e
+Get class w
+Get class cq
+Get class al
+Get class bq
+Get class i
+Get class cu
+Get class bc
+Get class bu
+Get class javak.microedition.midlet.MiDlet
+Get class ch
+Get class ac
+Get class au
+Get class r
+Get class by
+Get class cl
+Get class ay
+Get class bl
+Get class v
+Get class cp
+Get class bp
+Get class cc
+Get class z
+Get class javak.microedition.midlet.MiDlet$KeySelector
+Get class ap
+Get class m
+Get class bt
+Get class cg
+Get class at
+Get class bg
+Get class q
+Get class ag
+Get class ck
+Get class d
+Get class bk
+Get class u
+Get class ak
+Get class h
+Get class javak.microedition.lcdui.Kalvaz
+Get class bo
+Get class cb
+Get class ct
+Get class ao
+Get class bb
+Get class l
+Get class ab
+Get class cf
+Get class cx
+Get class bf
+Get class bx
+Get class af
+Get class ax
+Get class c
+Get class game.CMidlet
+Get class co
+Custom.jar.getResourceStream: /icon.png (2563)
+Launch MIDlet class: game.CMidlet
+Custom.jar.getResourceStream: javak/config.txt (3)
+Custom.jar.getResourceStream: javak/K (182)
+openRecordStore AutoClick
+openRecordStore SETTING
+getRecord SETTING_1
+System.getProperty#microedition.platform=Nokia_6270_6280
+*** com.nokia.mid.ui.DeviceControl.setLights() ***
+openRecordStore naked
+openRecordStore hair
+openRecordStore headwear
+openRecordStore pet
+openRecordStore equipeffect
+openRecordStore equipeffect
+openRecordStore weaponattack
+getRecord weaponattack_1
+openRecordStore weaponeffect
+openRecordStore equip
+openRecordStore weapon
+getRecord weapon_1
+openRecordStore skill
+getRecord skill_1
+openRecordStore npc
+getRecord npc_1
+openRecordStore decorate
+getRecord decorate_1
+openRecordStore orge
+getRecord orge_1
+openRecordStore task
+openRecordStore building
+getRecord building_1
+openRecordStore prop
+getRecord prop_1
+openRecordStore prop_v5
+openRecordStore sys
+getRecord sys_1
+openRecordStore sys_v5
+openRecordStore states
+getRecord states_1
+openRecordStore ingame
+openRecordStore ui
+openRecordStore ui_v5
+openRecordStore loading
+openRecordStore logo
+Custom.jar.getResourceStream: LandUIDict.bin (null)
+>>?? ! ????????
+Custom.jar.getResourceStream: loading/softkey.png (4954)
+openRecordStore XJB2
+getRecord XJB2_1
+openRecordStore XJB8
+getRecord XJB8_1
+openRecordStore serviseID
+getRecord serviseID_1
+Custom.jar.getResourceStream: 17Game/partner.png (null)
+Custom.jar.getResourceStream: logo/17game.png (7846)
+Custom.jar.getResourceStream: ui/Transparency.anu (129)
+Custom.jar.getResourceStream: ui/Transparency.png (2851)
+Custom.jar.getResourceStream: ingame/yun.anu (223)
+Custom.jar.getResourceStream: ingame/yun.png (7955)
+Custom.jar.getResourceStream: loading/star.anu (101)
+Custom.jar.getResourceStream: loading/star.png (400)
+Custom.jar.getResourceStream: loading/pressanykey.anu (81)
+Custom.jar.getResourceStream: loading/pressanykey.png (3253)
+Custom.jar.getResourceStream: loading/title.anu (1014)
+Custom.jar.getResourceStream: loading/title.png (30353)
+Custom.jar.getResourceStream: loading/logo.anu (1737)
+Custom.jar.getResourceStream: loading/logo.png (11526)
+Custom.jar.getResourceStream: loading/title_he.anu (790)
+Custom.jar.getResourceStream: loading/title_he.png (3520)
+openRecordStore XJB9
+getRecord XJB9_1
+openRecordStore XJB9
+getRecord XJB9_1
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+Connect to: http://gmp.i139.cn/bizcontrol/LoginOnlineGame?sender=202&cpId=C00216&cpServiceId=120122080000&fid=1000
+Connect to: http://gmp.i139.cn/bizcontrol/LoginOnlineGame?sender=202&cpId=C00227&cpServiceId=120122078000&fid=1000
+>>java.net.UnknownHostException: gmp.i139.cn
+>>	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:153)
+>>	at java.net.Socket.connect(Socket.java:464)
+>>	at java.net.Socket.connect(Socket.java:414)
+>>	at sun.net.NetworkClient.doConnect(NetworkClient.java:139)
+>>	at sun.net.www.http.HttpClient.openServer(HttpClient.java:421)
+>>	at sun.net.www.http.HttpClient.openServer(HttpClient.java:649)
+>>	at sun.net.www.http.HttpClient.<init>(HttpClient.java:320)
+>>	at sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:353)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:334)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:329)
+>>	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:522)
+>>	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:499)
+>>	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:620)
+>>	at javax.microedition.io.c.openInputStream(Unknown Source)
+>>	at s.run(Unknown Source)
+>>java.net.UnknownHostException: gmp.i139.cn
+>>	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:153)
+>>	at java.net.Socket.connect(Socket.java:464)
+>>	at java.net.Socket.connect(Socket.java:414)
+>>	at sun.net.NetworkClient.doConnect(NetworkClient.java:139)
+>>	at sun.net.www.http.HttpClient.openServer(HttpClient.java:421)
+>>	at sun.net.www.http.HttpClient.openServer(HttpClient.java:649)
+>>	at sun.net.www.http.HttpClient.<init>(HttpClient.java:320)
+>>	at sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:353)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:334)
+>>	at sun.net.www.http.HttpClient.New(HttpClient.java:329)
+>>	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:522)
+>>	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:499)
+>>	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:620)
+>>	at javax.microedition.io.c.openInputStream(Unknown Source)
+>>	at s.run(Unknown Source)
+openRecordStore KEY
+getRecord KEY_1
+Custom.jar.getResourceStream: ui/up.anu (81)
+Custom.jar.getResourceStream: ui/up.png (261)
+Custom.jar.getResourceStream: loading/title_front.anu (749)
+Custom.jar.getResourceStream: loading/title_front.png (6383)
+Custom.jar.getResourceStream: loading/title_effect.anu (341)
+Custom.jar.getResourceStream: loading/title_effect.png (531)
+Custom.jar.getResourceStream: loading/accountNum.png (2002)
+Custom.jar.getResourceStream: loading/gou.png (205)
+Custom.jar.getResourceStream: loading/accounts.anu (253)
+Custom.jar.getResourceStream: loading/accounts.png (4556)
+Custom.jar.getResourceStream: ui/ear.png (1109)
+Custom.jar.getResourceStream: ingame/tortoise.anu (129)
+Custom.jar.getResourceStream: ingame/tortoise.png (928)
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+openRecordStore serviseID
+getRecord serviseID_1
+openRecordStore XJB8
+addRecord XJB8_25
+openRecordStore XJB2
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+openRecordStore serviseID
+addRecord serviseID_24
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+Custom.jar.getResourceStream: naked/351.anu (2126)
+Custom.jar.getResourceStream: naked/351.png (684)
+Custom.jar.getResourceStream: hair/301.anu (2062)
+Custom.jar.getResourceStream: hair/301.png (785)
+Custom.jar.getResourceStream: equip/1025.anu (5913)
+Custom.jar.getResourceStream: equip/352.png (2150)
+Custom.jar.getResourceStream: naked/353.anu (2303)
+Custom.jar.getResourceStream: naked/353.png (1482)
+Custom.jar.getResourceStream: weapon/2701.anu (1504)
+openRecordStore weapon
+getRecord weapon_2
+Custom.jar.getResourceStream: weaponattack/842.anu (421)
+Custom.jar.getResourceStream: weaponattack/842.png (814)
+Custom.jar.getResourceStream: naked/330.anu (129)
+Custom.jar.getResourceStream: naked/330.png (709)
+Custom.jar.getResourceStream: naked/355.anu (2560)
+Custom.jar.getResourceStream: naked/355.png (383)
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+openRecordStore XJB1
+Custom.jar.getResourceStream: loading/role_land1.png (234)
+Custom.jar.getResourceStream: loading/role_land2.png (234)
+Custom.jar.getResourceStream: ui/loading1.anu (1012)
+Custom.jar.getResourceStream: ui/loading1.png (6131)
+Custom.jar.getResourceStream: ui/loading.anu (149)
+Custom.jar.getResourceStream: ui/loading.png (525)
+Connect to: http://127.0.0.1:8080/xj_login/xj_login
+SocketConnection: socket://127.0.0.1:6721
+host:127.0.0.1
+port:6721
+Custom.jar.getResourceStream: ingame/num9.png (305)
+Custom.jar.getResourceStream: ingame/mousepoint.anu (606)
+Custom.jar.getResourceStream: ingame/mousepoint.png (1297)
+Custom.jar.getResourceStream: ingame/touch.anu (356)
+Custom.jar.getResourceStream: ingame/touch.png (6804)
+Custom.jar.getResourceStream: ingame/playerlevelnum.anu (309)
+Custom.jar.getResourceStream: ingame/playerlevelnum.png (303)
+Custom.jar.getResourceStream: ui/skillbar.anu (464)
+Custom.jar.getResourceStream: ui/skillbar.png (531)
+Custom.jar.getResourceStream: ui/role.anu (120)
+Custom.jar.getResourceStream: ui/role.png (1637)
+Custom.jar.getResourceStream: ui/team.anu (120)
+Custom.jar.getResourceStream: ui/team.png (921)
+Custom.jar.getResourceStream: ui/newmail.anu (81)
+Custom.jar.getResourceStream: ui/newmail.png (284)
+Custom.jar.getResourceStream: ui/monsterhead.anu (113)
+Custom.jar.getResourceStream: ui/monsterhead.png (467)
+Custom.jar.getResourceStream: ingame/radaricon.anu (489)
+Custom.jar.getResourceStream: ingame/radaricon.png (460)
+Custom.jar.getResourceStream: ui/expression.anu (477)
+Custom.jar.getResourceStream: ui/expression.png (1095)
+Custom.jar.getResourceStream: ui/portrait.anu (141)
+Custom.jar.getResourceStream: ui/portrait.png (855)
+Custom.jar.getResourceStream: ingame/bnum.anu (337)
+Custom.jar.getResourceStream: ingame/bnum.png (1025)
+Custom.jar.getResourceStream: ingame/rnum.anu (309)
+Custom.jar.getResourceStream: ingame/rnum.png (1762)
+Custom.jar.getResourceStream: ingame/gnum.anu (337)
+Custom.jar.getResourceStream: ingame/gnum.png (1034)
+Custom.jar.getResourceStream: ingame/ynum.anu (309)
+Custom.jar.getResourceStream: ingame/ynum.png (2215)
+Custom.jar.getResourceStream: ingame/miss.anu (85)
+Custom.jar.getResourceStream: ingame/miss.png (789)
+Custom.jar.getResourceStream: ingame/num7.png (202)
+Custom.jar.getResourceStream: ui/money.anu (57)
+Custom.jar.getResourceStream: ui/money.png (292)
+Custom.jar.getResourceStream: ui/num10.png (252)
+Custom.jar.getResourceStream: ui/num11.png (312)
+Custom.jar.getResourceStream: ui/equip_compare2.png (266)
+Custom.jar.getResourceStream: ui/equip_compare1.png (266)
+Custom.jar.getResourceStream: ingame/select.anu (500)
+Custom.jar.getResourceStream: ingame/bselect.png (925)
+Custom.jar.getResourceStream: ingame/rselect.png (903)
+Custom.jar.getResourceStream: ingame/shadow.anu (169)
+Custom.jar.getResourceStream: ingame/shadow.png (340)
+Custom.jar.getResourceStream: prop/318.png (263)
+openRecordStore XJB7
+openRecordStore XJMALL
+getRecord XJMALL_1
+Custom.jar.getResourceStream: tile/111.png (9824)
+Custom.jar.getResourceStream: ingame/yun.anu (223)
+Custom.jar.getResourceStream: ingame/yun.png (7955)
+Custom.jar.getResourceStream: ingame/transport2.anu (326)
+Custom.jar.getResourceStream: ingame/transport2.png (3030)
+Custom.jar.getResourceStream: naked/351.anu (2126)
+Custom.jar.getResourceStream: naked/351.png (684)
+Custom.jar.getResourceStream: hair/301.anu (2062)
+Custom.jar.getResourceStream: hair/301.png (785)
+Custom.jar.getResourceStream: naked/353.anu (2303)
+Custom.jar.getResourceStream: naked/353.png (1482)
+Custom.jar.getResourceStream: naked/355.anu (2560)
+Custom.jar.getResourceStream: naked/355.png (383)
+Custom.jar.getResourceStream: naked/330.anu (129)
+Custom.jar.getResourceStream: naked/330.png (709)
+Custom.jar.getResourceStream: equip/1025.anu (5913)
+Custom.jar.getResourceStream: equip/2035.png (2947)
+Custom.jar.getResourceStream: weaponattack/842.anu (421)
+Custom.jar.getResourceStream: weaponattack/842.png (814)
+Custom.jar.getResourceStream: weapon/2701.anu (1504)
+Custom.jar.getResourceStream: weapon/2703.png (756)
+Custom.jar.getResourceStream: npc/9.anu (241)
+Custom.jar.getResourceStream: npc/9.png (1202)
+Custom.jar.getResourceStream: npc/17.anu (257)
+Custom.jar.getResourceStream: npc/17.png (2663)
+Custom.jar.getResourceStream: npc/15.anu (439)
+Custom.jar.getResourceStream: npc/15.png (1286)
+openRecordStore npc
+getRecord npc_2
+openRecordStore npc
+getRecord npc_3
+Custom.jar.getResourceStream: orge/279.anu (1549)
+Custom.jar.getResourceStream: orge/279.png (2922)
+Custom.jar.getResourceStream: ingame/deadman.anu (114)
+Custom.jar.getResourceStream: ingame/deadman.png (782)
+openRecordStore orge
+getRecord orge_2
+openRecordStore orge
+getRecord orge_3
+openRecordStore orge
+getRecord orge_4
+openRecordStore orge
+getRecord orge_5
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+getRecord ??_8
+getRecord ??_9
+getRecord ??_10
+getRecord ??_11
+getRecord ??_12
+getRecord ??_13
+getRecord ??_14
+getRecord ??_15
+getRecord ??_16
+getRecord ??_17
+getRecord ??_18
+getRecord ??_19
+openRecordStore ??
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+getRecord ??_8
+getRecord ??_9
+getRecord ??_10
+getRecord ??_11
+getRecord ??_12
+getRecord ??_13
+getRecord ??_14
+openRecordStore ??
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+openRecordStore ??
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+getRecord ??_8
+getRecord ??_9
+getRecord ??_10
+getRecord ??_11
+getRecord ??_12
+getRecord ??_13
+getRecord ??_14
+getRecord ??_15
+openRecordStore ??
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+getRecord ??_8
+openRecordStore ??
+openRecordStore ??
+enumerateRecords ??
+getRecord ??_1
+getRecord ??_2
+getRecord ??_3
+getRecord ??_4
+getRecord ??_5
+getRecord ??_6
+getRecord ??_7
+getRecord ??_8
+getRecord ??_9
+openRecordStore ??
+openRecordStore building
+getRecord building_2
+Custom.jar.getResourceStream: ingame/npctask.anu (341)
+Custom.jar.getResourceStream: ingame/npctask.png (831)
+openRecordStore prop
+getRecord prop_2
+openRecordStore prop
+getRecord prop_3
+openRecordStore prop
+getRecord prop_4
+openRecordStore sys
+getRecord sys_2
+openRecordStore sys
+getRecord sys_3
+openRecordStore sys
+getRecord sys_4
+openRecordStore sys
+getRecord sys_5
+openRecordStore sys
+getRecord sys_6
+openRecordStore sys
+getRecord sys_7
+openRecordStore sys
+getRecord sys_8
+openRecordStore sys
+getRecord sys_9
+openRecordStore sys
+getRecord sys_10
+openRecordStore sys
+getRecord sys_11
+openRecordStore sys
+getRecord sys_12
+openRecordStore building
+getRecord building_3
+openRecordStore building
+getRecord building_4
+Custom.jar.getResourceStream: equip/352.png (2150)
+openRecordStore weapon
+getRecord weapon_2
+Notify Destroyed
+Exiting Emulator

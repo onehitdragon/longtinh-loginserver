@@ -1,0 +1,1536 @@
+[2011-04-11 00:48:23,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 130
+[2011-04-11 09:30:36,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 131
+[2011-04-11 09:37:08,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 132
+[2011-04-11 09:51:26,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 134
+[2011-04-11 09:54:14,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 135
+[2011-04-11 10:05:18,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 136
+[2011-04-11 10:05:25,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 136
+[2011-04-11 10:06:17,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 137
+[2011-04-11 10:07:08,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 138
+[2011-04-11 10:09:01,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 139
+[2011-04-11 10:09:34,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 143
+[2011-04-11 10:09:59,500]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 144
+[2011-04-11 10:10:05,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 145
+[2011-04-11 10:10:31,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 146
+[2011-04-11 10:11:43,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 147
+[2011-04-11 10:12:02,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 148
+[2011-04-11 10:12:25,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 149
+[2011-04-11 10:12:54,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 150
+[2011-04-11 10:13:38,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 151
+[2011-04-11 10:14:36,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 152
+[2011-04-11 10:15:19,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 153
+[2011-04-11 10:26:19,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 154
+[2011-04-11 10:30:42,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 158
+[2011-04-11 10:31:05,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 159
+[2011-04-11 10:31:19,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 160
+[2011-04-11 10:32:00,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 161
+[2011-04-11 10:32:09,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 162
+[2011-04-11 10:32:19,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 163
+[2011-04-11 10:33:45,640]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 164
+[2011-04-11 10:35:38,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 165
+[2011-04-11 10:35:55,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 167
+[2011-04-11 10:37:37,203]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 168
+[2011-04-11 10:38:59,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 169
+[2011-04-11 10:40:49,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 170
+[2011-04-11 10:41:12,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 171
+[2011-04-11 10:41:41,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 172
+[2011-04-11 10:42:24,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 174
+[2011-04-11 10:42:26,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 173
+[2011-04-11 10:42:41,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 175
+[2011-04-11 10:42:49,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 176
+[2011-04-11 10:43:06,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 177
+[2011-04-11 10:43:27,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 178
+[2011-04-11 10:43:47,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 179
+[2011-04-11 10:43:56,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 180
+[2011-04-11 10:45:05,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 181
+[2011-04-11 10:46:23,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 182
+[2011-04-11 10:46:29,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 183
+[2011-04-11 10:47:30,812]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 10:47:30,828]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112149
+[2011-04-11 10:47:30,890]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 10:47:30:890][d6000000][60000000][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 10:47:30,890]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112149,sessionID= 184
+[2011-04-11 10:47:31,156]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 10:47:31,156]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 10:47:33,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 184
+[2011-04-11 10:51:02,203]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 185
+[2011-04-11 10:52:19,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 186
+[2011-04-11 10:53:06,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 187
+[2011-04-11 10:53:25,578]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 188
+[2011-04-11 10:53:50,078]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302490409,addpoint=10
+[2011-04-11 10:53:50,078]-DEBUG (me2.server.login.db.LoginDAO:1268)|获取神州付充值信息 orderid=20110411-114794-1302490409
+[2011-04-11 10:53:50,078]-DEBUG (me2.server.login.db.LoginDAO:1276)|conn = 17115392(com.mysql.jdbc.Connection@1c6f8f8)
+[2011-04-11 10:53:50,078]-DEBUG (me2.server.login.db.LoginDAO:1280)|select * from szf_chargeup t where t.order_id='20110411-114794-1302490409'
+[2011-04-11 10:53:50,109]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 10:59:43,890]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302490759,addpoint=10
+[2011-04-11 10:59:43,906]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302490759
+[2011-04-11 10:59:43,906]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 21169978(com.mysql.jdbc.Connection@18facfb)
+[2011-04-11 10:59:43,906]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302490759'
+[2011-04-11 10:59:43,937]-DEBUG (me2.server.login.db.LoginDAO:1302)|roleid=19362,transid=1-1-20110411105939843,server_id=1
+[2011-04-11 10:59:43,937]-INFO  (me2.server.login.LoginService:146)|get szf charge info=[Ljava.lang.String;@1107304
+[2011-04-11 10:59:43,937]-INFO  (me2.server.login.LoginService:152)|神州付信息 userid=19362,serverid=1,transid=1-1-20110411105939843
+[2011-04-11 10:59:43,984]-INFO  (me2.server.login.LoginService:156)|神州付回调给服务端 res=1
+[2011-04-11 10:59:43,984]-INFO  (me2.server.login.LoginService:158)|开始更新数据库记录...
+[2011-04-11 11:00:00,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 11:00:00,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 11:00:00,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 11:00:00,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 11:00:04,109]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 10
+[2011-04-11 11:03:44,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:03:44,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19352,sequence=0,mapsize=1
+[2011-04-11 11:03:44,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19354,sequence=1,mapsize=1
+[2011-04-11 11:03:44,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 11
+[2011-04-11 11:07:19,031]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 11:07:19,046]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 11:07:19,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 11:07:19,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 12
+[2011-04-11 11:09:49,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 11:09:49,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 11:09:49,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 11:09:49,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 11:09:53,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 13
+[2011-04-11 11:11:29,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 11:11:29,843]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 11:11:29,843]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 11:11:30,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 14
+[2011-04-11 11:13:07,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:13:07,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:13:08,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 15
+[2011-04-11 11:16:36,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 11:16:36,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 11:16:37,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 16
+[2011-04-11 11:19:26,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 11:19:26,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 11:19:26,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 11:19:26,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 11:19:31,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 17
+[2011-04-11 11:28:01,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 11:28:01,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 11:28:01,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 11:28:01,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 11:28:03,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 18
+[2011-04-11 11:28:04,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 11:28:04,062]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 11:28:04,062]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 11:28:04,062]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 11:28:09,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 19
+[2011-04-11 11:28:14,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:28:14,156]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:28:14,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 20
+[2011-04-11 11:29:29,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:29:29,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:29:29,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 21
+[2011-04-11 11:29:32,171]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:29:32,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:29:32,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 21
+[2011-04-11 11:30:40,250]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 11:30:40,250]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 11:30:40,250]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 11:30:40,250]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 11:30:41,578]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 22
+[2011-04-11 11:31:47,296]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:31:47,296]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:31:47,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 23
+[2011-04-11 11:31:56,859]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 11:31:56,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 11:31:56,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 11:31:56,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 11:31:58,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 24
+[2011-04-11 11:34:43,171]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:34:43,171]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:34:43,281]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 25
+[2011-04-11 11:37:32,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:37:32,843]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 11:37:33,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 26
+[2011-04-11 11:38:10,375]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 11:38:10,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 11:38:10,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 11:38:10,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 27
+[2011-04-11 11:43:55,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 11:43:55,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 11:43:55,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 11:43:55,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 11:43:55,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 28
+[2011-04-11 11:44:00,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 11:44:00,578]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 11:44:00,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 11:44:00,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 11:44:02,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 29
+[2011-04-11 11:53:10,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 11:53:10,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 11:53:10,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 11:53:10,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 11:53:11,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 30
+[2011-04-11 11:55:43,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 11:55:43,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 11:55:43,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 11:55:43,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 11:55:44,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 31
+[2011-04-11 11:56:13,859]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302494135,addpoint=10
+[2011-04-11 11:56:13,859]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302494135
+[2011-04-11 11:56:13,859]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 5985988(com.mysql.jdbc.Connection@9d9155)
+[2011-04-11 11:56:13,859]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302494135'
+[2011-04-11 11:56:13,859]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 12:00:23,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112138
+[2011-04-11 12:00:23,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112138,userID=19317,sequence=0,mapsize=1
+[2011-04-11 12:00:23,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112138,userID=19331,sequence=1,mapsize=1
+[2011-04-11 12:00:26,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 32
+[2011-04-11 12:31:06,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112136
+[2011-04-11 12:31:06,015]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112136,userID=19306,sequence=0,mapsize=1
+[2011-04-11 12:31:07,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 33
+[2011-04-11 13:02:52,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:02:52,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:02:52,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:02:52,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:02:55,921]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 34
+[2011-04-11 13:04:32,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:04:32,000]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:04:32,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:04:32,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:04:32,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 35
+[2011-04-11 13:05:25,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:05:25,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:05:25,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:05:25,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:05:26,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 36
+[2011-04-11 13:06:15,062]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302498334,addpoint=10
+[2011-04-11 13:06:15,062]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302498334
+[2011-04-11 13:06:15,062]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 17312853(com.mysql.jdbc.Connection@1969478)
+[2011-04-11 13:06:15,062]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302498334'
+[2011-04-11 13:06:15,062]-DEBUG (me2.server.login.db.LoginDAO:1302)|roleid=19347,transid=1-1-20110411130611062,server_id=1
+[2011-04-11 13:06:15,062]-INFO  (me2.server.login.LoginService:146)|get szf charge info=[Ljava.lang.String;@e7c6cd
+[2011-04-11 13:06:15,062]-INFO  (me2.server.login.LoginService:152)|神州付信息 userid=19347,serverid=1,transid=1-1-20110411130611062
+[2011-04-11 13:06:15,109]-INFO  (me2.server.login.LoginService:156)|神州付回调给服务端 res=1
+[2011-04-11 13:06:15,109]-INFO  (me2.server.login.LoginService:158)|开始更新数据库记录...
+[2011-04-11 13:06:41,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112133
+[2011-04-11 13:06:41,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112133,userID=19304,sequence=0,mapsize=1
+[2011-04-11 13:06:41,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112133,userID=19335,sequence=1,mapsize=1
+[2011-04-11 13:06:42,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 39
+[2011-04-11 13:08:12,109]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:08:12,125]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112150
+[2011-04-11 13:08:12,171]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:08:12:171][1234567][111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:08:12,171]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112150,sessionID= 40
+[2011-04-11 13:08:12,656]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 13:08:12,656]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 13:08:13,859]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112150
+[2011-04-11 13:08:14,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 40
+[2011-04-11 13:08:17,421]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302498457,addpoint=10
+[2011-04-11 13:08:17,421]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302498457
+[2011-04-11 13:08:17,421]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 7109922(com.mysql.jdbc.Connection@8b7aca)
+[2011-04-11 13:08:17,421]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302498457'
+[2011-04-11 13:08:17,421]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 13:08:55,625]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 13:08:55,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 13:08:55,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 13:08:55,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 13:08:59,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 41
+[2011-04-11 13:09:10,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:09:10,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:09:10,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:09:10,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 13:09:12,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 42
+[2011-04-11 13:10:56,281]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:10:56,296]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:10:56,296]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:10:56,296]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:10:59,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 43
+[2011-04-11 13:13:28,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:13:28,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:13:28,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:13:28,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:13:32,156]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 44
+[2011-04-11 13:16:24,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112096
+[2011-04-11 13:16:24,421]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112096,userID=16714,sequence=0,mapsize=1
+[2011-04-11 13:16:24,421]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112096,userID=19267,sequence=1,mapsize=1
+[2011-04-11 13:16:26,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 45
+[2011-04-11 13:16:50,718]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:16:50,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:16:50,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:16:50,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:16:53,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 46
+[2011-04-11 13:17:45,296]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302499022,addpoint=10
+[2011-04-11 13:17:45,296]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302499022
+[2011-04-11 13:17:45,296]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 30469883(com.mysql.jdbc.Connection@1969478)
+[2011-04-11 13:17:45,296]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302499022'
+[2011-04-11 13:17:45,296]-DEBUG (me2.server.login.db.LoginDAO:1302)|roleid=19267,transid=1-1-20110411131742109,server_id=1
+[2011-04-11 13:17:45,296]-INFO  (me2.server.login.LoginService:146)|get szf charge info=[Ljava.lang.String;@127f2bb
+[2011-04-11 13:17:45,296]-INFO  (me2.server.login.LoginService:152)|神州付信息 userid=19267,serverid=1,transid=1-1-20110411131742109
+[2011-04-11 13:17:45,359]-INFO  (me2.server.login.LoginService:156)|神州付回调给服务端 res=1
+[2011-04-11 13:17:45,359]-INFO  (me2.server.login.LoginService:158)|开始更新数据库记录...
+[2011-04-11 13:17:55,359]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302499032,addpoint=10
+[2011-04-11 13:17:55,359]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302499032
+[2011-04-11 13:17:55,359]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 20940254(com.mysql.jdbc.Connection@18facfb)
+[2011-04-11 13:17:55,359]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302499032'
+[2011-04-11 13:17:55,359]-DEBUG (me2.server.login.db.LoginDAO:1302)|roleid=19267,transid=1-1-20110411131752312,server_id=1
+[2011-04-11 13:17:55,359]-INFO  (me2.server.login.LoginService:146)|get szf charge info=[Ljava.lang.String;@19acd13
+[2011-04-11 13:17:55,359]-INFO  (me2.server.login.LoginService:152)|神州付信息 userid=19267,serverid=1,transid=1-1-20110411131752312
+[2011-04-11 13:17:55,406]-INFO  (me2.server.login.LoginService:156)|神州付回调给服务端 res=1
+[2011-04-11 13:17:55,406]-INFO  (me2.server.login.LoginService:158)|开始更新数据库记录...
+[2011-04-11 13:18:20,265]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 13:18:20,281]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 13:18:20,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 47
+[2011-04-11 13:18:33,515]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112110
+[2011-04-11 13:18:33,531]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112110,userID=19257,sequence=0,mapsize=1
+[2011-04-11 13:18:36,687]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112110
+[2011-04-11 13:18:36,687]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112110,userID=19257,sequence=0,mapsize=1
+[2011-04-11 13:18:36,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112110
+[2011-04-11 13:18:36,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112110,userID=19257,sequence=0,mapsize=1
+[2011-04-11 13:18:37,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112110
+[2011-04-11 13:18:37,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112110,userID=19257,sequence=0,mapsize=1
+[2011-04-11 13:19:02,671]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:19:02,671]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112151
+[2011-04-11 13:19:02,703]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:19:02:703][11111411][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:19:02,703]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112151,sessionID= 49
+[2011-04-11 13:19:03,171]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 13:19:03,171]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 13:19:04,234]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 13:19:04,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 49
+[2011-04-11 13:21:13,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 13:21:13,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 13:21:13,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 13:21:13,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 13:21:17,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 50
+[2011-04-11 13:22:27,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:22:27,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:22:27,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:22:27,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:22:31,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 51
+[2011-04-11 13:22:54,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 13:22:54,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 13:22:54,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 13:22:54,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 13:22:58,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 52
+[2011-04-11 13:23:41,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112150
+[2011-04-11 13:23:41,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112150,userID=19364,sequence=0,mapsize=1
+[2011-04-11 13:23:43,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 53
+[2011-04-11 13:26:02,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 13:26:02,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 13:26:02,921]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 13:26:03,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 54
+[2011-04-11 13:26:19,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 13:26:19,703]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 13:26:19,703]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 13:26:19,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 55
+[2011-04-11 13:27:30,859]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:27:30,859]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112152
+[2011-04-11 13:27:30,921]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:27:30:921][21i11111][ab111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:27:30,921]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112152,sessionID= 56
+[2011-04-11 13:27:31,312]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 13:27:31,312]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 13:27:32,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112152
+[2011-04-11 13:27:32,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 56
+[2011-04-11 13:27:51,171]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 13:27:51,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 13:27:51,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 13:27:51,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 57
+[2011-04-11 13:28:12,156]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=12000
+[2011-04-11 13:28:12,171]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=12000,userID=19348,sequence=0,mapsize=1
+[2011-04-11 13:28:12,171]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=12000,userID=19351,sequence=1,mapsize=1
+[2011-04-11 13:28:14,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 58
+[2011-04-11 13:29:10,281]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 13:29:10,312]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 13:29:10,312]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 13:29:10,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 59
+[2011-04-11 13:29:39,765]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:29:39,765]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112153
+[2011-04-11 13:29:39,796]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:29:39:796][11111119][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:29:48,953]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:29:48,953]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112154
+[2011-04-11 13:29:49,000]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:29:49:00][1111111t][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:29:49,000]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112154,sessionID= 60
+[2011-04-11 13:29:49,343]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 13:29:49,343]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 13:29:50,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112154
+[2011-04-11 13:29:50,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 60
+[2011-04-11 13:33:06,156]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 13:33:06,156]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112155
+[2011-04-11 13:33:06,203]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 13:33:06:203][11111132][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 13:33:06,203]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112155,sessionID= 61
+[2011-04-11 13:33:06,546]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 13:33:06,546]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 13:33:08,171]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 13:33:08,265]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 61
+[2011-04-11 13:37:15,328]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302500185,addpoint=10
+[2011-04-11 13:37:15,328]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302500185
+[2011-04-11 13:37:15,328]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 25569480(com.mysql.jdbc.Connection@8b7aca)
+[2011-04-11 13:37:15,328]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302500185'
+[2011-04-11 13:37:15,328]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 13:38:18,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 13:38:18,375]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 13:38:18,375]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 13:38:18,375]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 13:38:22,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 62
+[2011-04-11 13:42:12,984]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=12000
+[2011-04-11 13:42:12,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=12000,userID=19348,sequence=0,mapsize=1
+[2011-04-11 13:42:12,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=12000,userID=19351,sequence=1,mapsize=1
+[2011-04-11 13:42:15,265]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 63
+[2011-04-11 13:42:22,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 13:42:22,937]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19368,sequence=0,mapsize=1
+[2011-04-11 13:42:24,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 64
+[2011-04-11 13:42:46,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 13:42:46,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 13:42:46,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 13:42:46,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 13:42:50,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 65
+[2011-04-11 13:44:59,515]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 13:44:59,515]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19368,sequence=0,mapsize=1
+[2011-04-11 13:45:01,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 66
+[2011-04-11 13:45:03,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=12000
+[2011-04-11 13:45:03,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=12000,userID=19348,sequence=0,mapsize=1
+[2011-04-11 13:45:03,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=12000,userID=19351,sequence=1,mapsize=1
+[2011-04-11 13:45:06,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 67
+[2011-04-11 13:45:29,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:45:29,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:45:29,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:45:29,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:45:33,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 68
+[2011-04-11 13:45:53,890]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302500700,addpoint=10
+[2011-04-11 13:45:53,890]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302500700
+[2011-04-11 13:45:53,890]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 7216319(com.mysql.jdbc.Connection@8b7aca)
+[2011-04-11 13:45:53,906]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302500700'
+[2011-04-11 13:45:53,906]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 13:47:51,781]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:47:51,796]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:47:51,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:47:51,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 13:47:52,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 13:47:52,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 13:47:53,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 70
+[2011-04-11 13:47:54,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 69
+[2011-04-11 13:48:04,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 13:48:04,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 13:48:04,187]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 13:48:04,187]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 13:48:07,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 71
+[2011-04-11 13:48:15,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 13:48:15,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 13:48:15,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 13:48:17,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 72
+[2011-04-11 13:48:35,859]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=12000
+[2011-04-11 13:48:35,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=12000,userID=19348,sequence=0,mapsize=1
+[2011-04-11 13:48:35,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=12000,userID=19351,sequence=1,mapsize=1
+[2011-04-11 13:48:38,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 73
+[2011-04-11 13:48:41,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 13:48:41,546]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19368,sequence=0,mapsize=1
+[2011-04-11 13:48:43,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 74
+[2011-04-11 13:49:51,218]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=12000
+[2011-04-11 13:49:51,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=12000,userID=19348,sequence=0,mapsize=1
+[2011-04-11 13:49:51,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=12000,userID=19351,sequence=1,mapsize=1
+[2011-04-11 13:49:53,640]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 75
+[2011-04-11 13:49:56,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 13:49:56,000]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19368,sequence=0,mapsize=1
+[2011-04-11 13:49:57,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 76
+[2011-04-11 13:50:33,781]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=0,orderid=20110411-114794-1302500978,addpoint=0
+[2011-04-11 13:50:33,781]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302500978
+[2011-04-11 13:50:33,781]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 19977009(com.mysql.jdbc.Connection@797005)
+[2011-04-11 13:50:33,781]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302500978'
+[2011-04-11 13:50:33,781]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 13:53:31,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 13:53:31,781]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 13:53:31,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 13:53:31,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 13:53:32,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 78
+[2011-04-11 13:53:57,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:53:57,015]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:53:57,015]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:53:57,015]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 13:53:57,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 79
+[2011-04-11 13:54:32,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 13:54:32,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 13:54:34,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 81
+[2011-04-11 13:54:36,296]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:54:36,296]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:54:36,296]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:54:36,312]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:54:37,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 82
+[2011-04-11 13:55:17,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:55:17,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:55:17,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:55:17,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19359,sequence=2,mapsize=1
+[2011-04-11 13:55:19,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 83
+[2011-04-11 13:55:44,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:55:44,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:55:44,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:55:44,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 13:55:44,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 13:55:44,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 13:55:44,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 13:55:44,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 85
+[2011-04-11 13:55:45,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 84
+[2011-04-11 13:55:49,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:55:49,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:55:49,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:55:49,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:55:51,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 86
+[2011-04-11 13:56:44,156]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:56:44,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:56:44,187]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:56:44,187]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:56:45,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 87
+[2011-04-11 13:57:06,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 13:57:06,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 13:57:06,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 13:57:06,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 13:57:09,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 88
+[2011-04-11 13:57:37,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:57:37,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:57:37,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:57:37,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 13:57:39,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 89
+[2011-04-11 13:57:50,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 13:57:50,437]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 13:57:50,437]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 13:57:50,437]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 13:57:51,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 90
+[2011-04-11 13:58:38,125]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302501419,addpoint=10
+[2011-04-11 13:58:38,140]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302501419
+[2011-04-11 13:58:38,140]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 10443736(com.mysql.jdbc.Connection@18facfb)
+[2011-04-11 13:58:38,140]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302501419'
+[2011-04-11 13:58:38,140]-DEBUG (me2.server.login.db.LoginDAO:1302)|roleid=19346,transid=1-1-20110411135707078,server_id=1
+[2011-04-11 13:58:38,140]-INFO  (me2.server.login.LoginService:146)|get szf charge info=[Ljava.lang.String;@ffa7e1
+[2011-04-11 13:58:38,140]-INFO  (me2.server.login.LoginService:152)|神州付信息 userid=19346,serverid=1,transid=1-1-20110411135707078
+[2011-04-11 13:58:38,187]-INFO  (me2.server.login.LoginService:156)|神州付回调给服务端 res=1
+[2011-04-11 13:58:38,187]-INFO  (me2.server.login.LoginService:158)|开始更新数据库记录...
+[2011-04-11 13:58:55,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 13:58:55,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 13:58:55,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 13:58:55,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 13:58:57,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 91
+[2011-04-11 13:59:58,515]-INFO  (me2.server.login.LoginService:144)|神州付回调 result=1,orderid=20110411-114794-1302501541,addpoint=10
+[2011-04-11 13:59:58,515]-DEBUG (me2.server.login.db.LoginDAO:1281)|获取神州付充值信息 orderid=20110411-114794-1302501541
+[2011-04-11 13:59:58,515]-DEBUG (me2.server.login.db.LoginDAO:1289)|conn = 12714542(com.mysql.jdbc.Connection@9d9155)
+[2011-04-11 13:59:58,515]-DEBUG (me2.server.login.db.LoginDAO:1293)|select * from szf_chargeup t where t.order_id='20110411-114794-1302501541'
+[2011-04-11 13:59:58,515]-INFO  (me2.server.login.LoginService:146)|get szf charge info=null
+[2011-04-11 14:00:43,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:00:43,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:00:43,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:00:43,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:00:43,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 92
+[2011-04-11 14:00:46,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:00:46,937]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:00:46,937]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:00:46,937]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:00:48,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 93
+[2011-04-11 14:01:24,046]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:01:24,046]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:01:24,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:01:24,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:01:25,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 94
+[2011-04-11 14:01:53,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:01:53,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:01:53,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:01:53,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:01:54,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 95
+[2011-04-11 14:02:04,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:02:04,640]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:02:04,640]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:02:04,640]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:02:04,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 96
+[2011-04-11 14:02:28,718]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:02:28,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:02:28,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:02:28,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:02:30,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 97
+[2011-04-11 14:02:52,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:02:52,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:02:52,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:02:52,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 98
+[2011-04-11 14:06:43,984]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:06:43,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:06:43,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:06:44,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 99
+[2011-04-11 14:07:04,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:07:04,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:07:04,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:07:04,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:07:04,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 100
+[2011-04-11 14:07:30,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:07:30,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:07:30,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:07:30,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:07:30,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 103
+[2011-04-11 14:07:37,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:07:37,000]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:07:37,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:07:37,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:07:40,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 102
+[2011-04-11 14:07:45,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:07:45,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:07:45,406]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:07:45,406]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:07:49,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 104
+[2011-04-11 14:08:46,812]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 14:08:46,812]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112156
+[2011-04-11 14:08:46,859]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 14:08:46:859][11111911][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 14:08:46,859]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112156,sessionID= 105
+[2011-04-11 14:08:47,250]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 14:08:47,250]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 14:08:48,718]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:08:48,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 105
+[2011-04-11 14:09:03,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:09:03,140]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:09:03,156]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:09:03,156]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:09:04,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 106
+[2011-04-11 14:09:29,515]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 14:09:29,531]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 14:09:29,531]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 14:09:29,531]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 14:09:32,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 107
+[2011-04-11 14:10:02,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:10:02,468]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:10:02,468]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:10:02,468]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:10:02,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 108
+[2011-04-11 14:10:24,796]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:10:24,796]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:10:24,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:10:24,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:10:25,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 109
+[2011-04-11 14:11:27,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:11:27,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:11:28,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 110
+[2011-04-11 14:11:52,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:11:52,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:11:52,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:11:52,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:11:55,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 111
+[2011-04-11 14:12:21,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:12:21,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 112
+[2011-04-11 14:12:50,453]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:12:50,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:12:51,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 112
+[2011-04-11 14:13:49,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112136
+[2011-04-11 14:13:49,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112136,userID=19306,sequence=0,mapsize=1
+[2011-04-11 14:13:50,500]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 114
+[2011-04-11 14:13:52,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:13:52,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:13:52,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:13:52,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:13:56,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 115
+[2011-04-11 14:13:59,031]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:13:59,031]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:13:59,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 116
+[2011-04-11 14:14:26,953]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:14:26,953]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:14:26,953]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:14:26,968]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:14:30,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 117
+[2011-04-11 14:15:56,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:15:56,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:15:56,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:15:56,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:15:56,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:15:56,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:15:57,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 124
+[2011-04-11 14:15:57,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 123
+[2011-04-11 14:16:15,046]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:16:15,046]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:16:15,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:16:15,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:16:15,203]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 125
+[2011-04-11 14:16:35,890]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:16:35,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:16:35,906]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:16:36,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 126
+[2011-04-11 14:18:09,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:18:09,640]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:18:09,640]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:18:09,640]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:18:12,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 127
+[2011-04-11 14:18:17,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:18:17,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:18:17,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:18:17,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:18:20,921]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 128
+[2011-04-11 14:18:22,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 14:18:22,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 14:18:22,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 14:18:22,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 14:18:25,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 129
+[2011-04-11 14:18:35,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112136
+[2011-04-11 14:18:35,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112136,userID=19306,sequence=0,mapsize=1
+[2011-04-11 14:18:36,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 131
+[2011-04-11 14:18:46,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112133
+[2011-04-11 14:18:46,937]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112133,userID=19304,sequence=0,mapsize=1
+[2011-04-11 14:18:46,937]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112133,userID=19335,sequence=1,mapsize=1
+[2011-04-11 14:18:48,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 133
+[2011-04-11 14:21:01,796]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:21:01,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:21:01,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:21:01,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:21:01,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 134
+[2011-04-11 14:21:13,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:21:13,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:21:14,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 135
+[2011-04-11 14:23:22,218]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:23:22,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:23:23,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 136
+[2011-04-11 14:23:37,562]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:23:37,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:23:37,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:23:37,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:23:37,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 137
+[2011-04-11 14:23:55,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:23:55,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:23:55,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:23:55,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:23:55,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 138
+[2011-04-11 14:24:15,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:24:16,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 139
+[2011-04-11 14:24:17,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:24:17,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:24:18,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 139
+[2011-04-11 14:25:46,500]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:25:46,515]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:25:46,515]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 14:25:48,109]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 143
+[2011-04-11 14:26:00,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:26:00,828]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:26:00,828]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:26:01,406]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 144
+[2011-04-11 14:26:02,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:26:02,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:26:02,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:26:02,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:26:06,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 145
+[2011-04-11 14:26:16,671]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 14:26:16,671]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 14:26:16,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 14:26:16,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 14:26:17,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 14:26:17,781]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=19288,sequence=0,mapsize=1
+[2011-04-11 14:26:17,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19292,sequence=1,mapsize=1
+[2011-04-11 14:26:17,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19340,sequence=2,mapsize=1
+[2011-04-11 14:26:20,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 142
+[2011-04-11 14:26:20,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 146
+[2011-04-11 14:26:23,015]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:26:23,015]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:26:23,015]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:26:23,156]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 147
+[2011-04-11 14:26:42,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:26:42,062]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:26:42,062]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:26:42,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 148
+[2011-04-11 14:27:09,156]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:27:09,171]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:27:09,171]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:27:09,171]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:27:10,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 149
+[2011-04-11 14:27:45,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 14:27:45,578]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=19288,sequence=0,mapsize=1
+[2011-04-11 14:27:45,578]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19292,sequence=1,mapsize=1
+[2011-04-11 14:27:45,578]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19340,sequence=2,mapsize=1
+[2011-04-11 14:27:48,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 150
+[2011-04-11 14:28:02,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 14:28:03,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 151
+[2011-04-11 14:28:19,375]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 14:28:19,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 152
+[2011-04-11 14:28:44,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:28:44,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:28:44,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:28:44,484]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:28:45,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 153
+[2011-04-11 14:29:37,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:29:37,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:29:37,921]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:29:37,921]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:29:43,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 154
+[2011-04-11 14:30:36,562]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:30:36,578]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:30:36,578]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:30:36,578]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:30:40,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 155
+[2011-04-11 14:32:25,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:32:25,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:32:25,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 14:32:27,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 156
+[2011-04-11 14:33:11,250]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:33:11,250]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:33:11,250]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 14:33:12,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 157
+[2011-04-11 14:33:27,234]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:33:27,234]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:33:27,234]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:33:27,234]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:33:27,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 158
+[2011-04-11 14:34:03,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=22379
+[2011-04-11 14:34:03,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=22379,userID=19311,sequence=0,mapsize=1
+[2011-04-11 14:34:04,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 160
+[2011-04-11 14:34:05,562]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:34:05,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:34:05,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:34:05,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:34:09,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 161
+[2011-04-11 14:35:07,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 14:35:07,140]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 14:35:07,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 14:35:07,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 14:35:09,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 162
+[2011-04-11 14:36:55,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 14:36:55,781]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19374,sequence=0,mapsize=1
+[2011-04-11 14:36:58,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 163
+[2011-04-11 14:37:12,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 14:37:12,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 14:37:12,968]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 14:37:12,968]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 14:37:13,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 164
+[2011-04-11 14:37:21,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 14:37:21,937]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19374,sequence=0,mapsize=1
+[2011-04-11 14:37:24,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 165
+[2011-04-11 14:37:31,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 14:37:31,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 14:37:31,453]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 14:37:32,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 166
+[2011-04-11 14:38:14,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 14:38:14,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 14:38:14,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 14:38:14,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 14:38:17,640]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 167
+[2011-04-11 14:45:51,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 14:45:51,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 14:45:51,921]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 14:45:51,921]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 14:45:53,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 168
+[2011-04-11 14:48:45,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 14:48:45,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 14:48:45,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 14:48:45,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 14:48:47,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 169
+[2011-04-11 14:49:35,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 14:49:35,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 14:49:35,968]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 14:49:35,968]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 14:49:39,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 170
+[2011-04-11 14:55:38,796]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 14:55:38,796]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 14:55:38,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 14:55:40,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 171
+[2011-04-11 14:55:56,234]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 14:55:56,234]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 14:55:56,234]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 14:55:56,234]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 14:55:59,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 172
+[2011-04-11 15:04:09,781]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=22379
+[2011-04-11 15:04:09,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 174
+[2011-04-11 15:04:14,515]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=22379
+[2011-04-11 15:04:14,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 174
+[2011-04-11 15:06:38,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 15:06:38,765]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 15:06:38,765]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 15:06:38,765]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 15:06:38,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 177
+[2011-04-11 15:08:40,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 15:08:40,000]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 15:08:40,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19323,sequence=1,mapsize=1
+[2011-04-11 15:08:40,015]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=2,mapsize=1
+[2011-04-11 15:08:43,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 182
+[2011-04-11 15:08:48,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 15:08:48,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 15:08:48,406]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 15:08:49,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 183
+[2011-04-11 15:09:09,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:09:09,671]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:09:09,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19309,sequence=1,mapsize=1
+[2011-04-11 15:09:09,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=2,mapsize=1
+[2011-04-11 15:09:13,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 184
+[2011-04-11 15:10:01,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 15:10:01,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 15:10:01,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 15:10:01,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19375,sequence=2,mapsize=1
+[2011-04-11 15:10:04,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 185
+[2011-04-11 15:10:05,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 15:10:05,500]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 15:10:05,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 15:10:05,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19350,sequence=2,mapsize=1
+[2011-04-11 15:10:07,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 186
+[2011-04-11 15:10:09,593]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 15:10:09,593]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112157
+[2011-04-11 15:10:09,953]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 15:10:09:953][880510][880510][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 15:10:09,953]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112157,sessionID= 187
+[2011-04-11 15:10:10,296]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 15:10:10,296]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 15:10:11,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 15:10:11,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 187
+[2011-04-11 15:10:28,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112132
+[2011-04-11 15:10:28,843]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112132,userID=19330,sequence=0,mapsize=1
+[2011-04-11 15:10:30,281]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 188
+[2011-04-11 15:10:54,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:10:54,671]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:10:54,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 15:10:54,671]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19376,sequence=2,mapsize=1
+[2011-04-11 15:10:58,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 189
+[2011-04-11 15:11:25,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:11:25,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:11:25,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 15:11:25,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19376,sequence=2,mapsize=1
+[2011-04-11 15:11:28,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 190
+[2011-04-11 15:11:02,250]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:11:02,265]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 15:11:02,265]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 15:11:02,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 191
+[2011-04-11 15:11:27,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 15:11:27,156]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 15:11:27,156]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 15:11:27,156]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 15:11:28,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 192
+[2011-04-11 15:11:38,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 15:11:38,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 15:11:38,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 15:11:38,218]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19375,sequence=2,mapsize=1
+[2011-04-11 15:11:42,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 193
+[2011-04-11 15:13:04,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 15:13:04,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 15:13:04,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 15:13:05,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 194
+[2011-04-11 15:13:09,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 15:13:10,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 196
+[2011-04-11 15:13:39,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:13:39,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 197
+[2011-04-11 15:15:15,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:15:15,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 15:15:15,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 198
+[2011-04-11 15:15:46,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:15:46,578]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 15:15:46,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 199
+[2011-04-11 15:16:05,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 15:16:05,765]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 15:16:05,921]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 200
+[2011-04-11 15:16:21,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 15:16:21,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 15:16:21,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 15:16:21,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19375,sequence=2,mapsize=1
+[2011-04-11 15:16:25,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 201
+[2011-04-11 15:16:34,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 15:16:34,328]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 15:16:34,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 202
+[2011-04-11 15:16:49,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:16:49,328]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 15:16:49,406]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 203
+[2011-04-11 15:23:01,796]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 15:23:01,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 15:23:01,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 15:23:01,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19377,sequence=2,mapsize=1
+[2011-04-11 15:23:03,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 205
+[2011-04-11 15:27:37,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 15:27:37,140]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 15:27:37,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 206
+[2011-04-11 15:27:47,531]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 15:27:47,531]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 15:27:47,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 207
+[2011-04-11 15:32:42,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21072
+[2011-04-11 15:32:42,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 208
+[2011-04-11 15:46:48,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112136
+[2011-04-11 15:46:48,421]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112136,userID=19306,sequence=0,mapsize=1
+[2011-04-11 15:46:49,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 209
+[2011-04-11 15:51:43,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:51:43,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:51:43,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 15:51:43,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19376,sequence=2,mapsize=1
+[2011-04-11 15:51:47,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 210
+[2011-04-11 15:54:20,718]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:54:20,734]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:54:20,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 15:54:20,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=2,mapsize=1
+[2011-04-11 15:54:21,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 211
+[2011-04-11 15:54:53,734]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 15:54:53,734]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 15:54:53,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 15:54:53,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=2,mapsize=1
+[2011-04-11 15:54:53,812]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 212
+[2011-04-11 15:54:55,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 15:54:55,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 15:54:55,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 15:54:56,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 213
+[2011-04-11 15:55:35,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112132
+[2011-04-11 15:55:35,953]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112132,userID=19330,sequence=0,mapsize=1
+[2011-04-11 15:55:35,953]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112132,userID=19378,sequence=1,mapsize=1
+[2011-04-11 15:55:37,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 214
+[2011-04-11 15:56:40,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 15:56:40,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 15:56:40,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 15:56:41,500]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 216
+[2011-04-11 15:56:47,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 15:56:47,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 15:56:47,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 15:56:47,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19375,sequence=2,mapsize=1
+[2011-04-11 15:56:51,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 217
+[2011-04-11 15:58:13,671]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 15:58:13,687]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=19288,sequence=0,mapsize=1
+[2011-04-11 15:58:13,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19292,sequence=1,mapsize=1
+[2011-04-11 15:58:13,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19340,sequence=2,mapsize=1
+[2011-04-11 15:58:16,281]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 218
+[2011-04-11 15:58:20,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 15:58:20,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=8147,sequence=0,mapsize=1
+[2011-04-11 15:58:20,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=15570,sequence=1,mapsize=1
+[2011-04-11 15:58:20,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19355,sequence=2,mapsize=1
+[2011-04-11 15:58:24,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 218
+[2011-04-11 15:59:00,953]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 15:59:00,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 15:59:02,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 219
+[2011-04-11 15:59:45,687]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 15:59:45,687]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 15:59:45,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 15:59:45,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19377,sequence=2,mapsize=1
+[2011-04-11 15:59:47,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 220
+[2011-04-11 15:59:53,546]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 15:59:53,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 15:59:55,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 221
+[2011-04-11 16:03:26,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:03:26,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 16:03:28,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 222
+[2011-04-11 16:05:10,140]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:05:10,140]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:05:10,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:05:10,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 16:05:11,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 223
+[2011-04-11 16:08:36,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:08:36,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:08:36,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:08:36,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 16:08:37,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 224
+[2011-04-11 16:09:46,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:09:46,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 16:09:46,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 225
+[2011-04-11 16:12:55,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:12:55,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 16:12:55,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 226
+[2011-04-11 16:12:58,296]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:12:58,312]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:12:58,312]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:12:58,312]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:12:58,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 227
+[2011-04-11 16:13:36,734]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:13:36,734]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 16:13:36,890]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 228
+[2011-04-11 16:13:36,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:13:36,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112157,userID=19380,sequence=0,mapsize=1
+[2011-04-11 16:13:37,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 228
+[2011-04-11 16:14:08,250]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 16:14:08,265]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 16:14:08,265]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 16:14:08,265]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19385,sequence=2,mapsize=1
+[2011-04-11 16:14:09,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 229
+[2011-04-11 16:14:11,937]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:14:12,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 230
+[2011-04-11 16:14:36,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 16:14:36,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 16:14:36,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 16:14:36,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19385,sequence=2,mapsize=1
+[2011-04-11 16:14:37,156]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 231
+[2011-04-11 16:15:09,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:15:09,500]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:15:09,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:15:09,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19369,sequence=2,mapsize=1
+[2011-04-11 16:15:12,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 232
+[2011-04-11 16:16:25,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 16:16:25,843]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 16:16:25,843]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 16:16:25,843]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=2,mapsize=1
+[2011-04-11 16:16:26,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 233
+[2011-04-11 16:17:56,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:17:56,718]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:17:56,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:17:56,718]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:18:00,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 234
+[2011-04-11 16:18:37,625]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:18:37,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 235
+[2011-04-11 16:18:45,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 16:18:45,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 16:18:45,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 16:18:47,156]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 236
+[2011-04-11 16:19:30,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 16:19:30,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 16:19:30,625]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 16:19:31,984]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 237
+[2011-04-11 16:19:37,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 16:19:37,500]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 16:19:37,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 16:19:37,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19375,sequence=2,mapsize=1
+[2011-04-11 16:19:40,453]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 16:19:40,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 16:19:40,453]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 16:19:41,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 239
+[2011-04-11 16:19:42,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 238
+[2011-04-11 16:19:53,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112132
+[2011-04-11 16:19:53,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112132,userID=19330,sequence=0,mapsize=1
+[2011-04-11 16:19:53,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112132,userID=19378,sequence=1,mapsize=1
+[2011-04-11 16:19:55,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 240
+[2011-04-11 16:20:53,015]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 16:20:53,031]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 16:20:53,031]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19324,sequence=1,mapsize=1
+[2011-04-11 16:20:53,031]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=2,mapsize=1
+[2011-04-11 16:20:56,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 241
+[2011-04-11 16:22:25,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:22:26,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 242
+[2011-04-11 16:22:26,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112157
+[2011-04-11 16:22:26,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 242
+[2011-04-11 16:22:40,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:22:40,500]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:22:40,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:22:40,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:22:43,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 243
+[2011-04-11 16:22:57,984]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112132
+[2011-04-11 16:22:58,000]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112132,userID=19330,sequence=0,mapsize=1
+[2011-04-11 16:22:58,000]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112132,userID=19378,sequence=1,mapsize=1
+[2011-04-11 16:22:59,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 244
+[2011-04-11 16:23:29,062]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 16:23:29,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=8147,sequence=0,mapsize=1
+[2011-04-11 16:23:29,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=15570,sequence=1,mapsize=1
+[2011-04-11 16:23:29,078]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19384,sequence=2,mapsize=1
+[2011-04-11 16:23:31,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:23:31,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 247
+[2011-04-11 16:23:32,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 246
+[2011-04-11 16:23:41,171]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:23:41,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:23:41,406]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 247
+[2011-04-11 16:24:01,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:24:01,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:24:01,640]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 248
+[2011-04-11 16:24:45,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:24:45,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:24:45,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:24:45,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:24:45,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 249
+[2011-04-11 16:25:31,031]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:25:31,031]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:25:31,031]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:25:31,031]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:25:31,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 251
+[2011-04-11 16:26:20,031]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:26:20,046]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:26:20,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:26:20,046]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:26:20,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 253
+[2011-04-11 16:26:25,890]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:26:25,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:26:26,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 254
+[2011-04-11 16:26:26,781]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 16:26:26,796]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=8147,sequence=0,mapsize=1
+[2011-04-11 16:26:26,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=15570,sequence=1,mapsize=1
+[2011-04-11 16:26:26,796]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19391,sequence=2,mapsize=1
+[2011-04-11 16:26:29,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 255
+[2011-04-11 16:26:43,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:26:43,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:26:43,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 256
+[2011-04-11 16:27:37,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 16:27:37,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 16:27:37,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 16:27:37,609]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19387,sequence=2,mapsize=1
+[2011-04-11 16:27:39,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 257
+[2011-04-11 16:29:07,453]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 16:29:07,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 16:29:07,453]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 16:29:08,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 258
+[2011-04-11 16:30:28,671]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:30:28,687]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 16:30:28,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 16:30:28,687]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 16:30:31,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 260
+[2011-04-11 16:30:36,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 16:30:36,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 16:30:36,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 16:30:36,656]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19388,sequence=2,mapsize=1
+[2011-04-11 16:30:40,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 261
+[2011-04-11 16:30:42,750]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112136
+[2011-04-11 16:30:42,765]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112136,userID=19306,sequence=0,mapsize=1
+[2011-04-11 16:30:43,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 16:30:43,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 16:30:43,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 16:30:43,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19387,sequence=2,mapsize=1
+[2011-04-11 16:30:43,421]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:30:43,437]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 16:30:43,453]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 16:30:43,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 264
+[2011-04-11 16:30:44,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 265
+[2011-04-11 16:30:44,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 262
+[2011-04-11 16:31:10,625]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 16:31:10,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 16:31:10,625]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 16:31:10,625]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19388,sequence=2,mapsize=1
+[2011-04-11 16:31:13,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 266
+[2011-04-11 16:32:49,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 16:32:49,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 16:32:49,406]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=1,mapsize=1
+[2011-04-11 16:32:49,406]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19389,sequence=2,mapsize=1
+[2011-04-11 16:32:52,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 267
+[2011-04-11 16:38:31,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:38:31,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:38:31,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:38:31,343]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:38:31,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 268
+[2011-04-11 16:38:35,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:38:35,437]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:38:35,437]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:38:35,437]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:38:35,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 268
+[2011-04-11 16:38:38,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:38:38,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:38:38,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:38:38,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:38:38,203]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 268
+[2011-04-11 16:38:46,562]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:38:46,562]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:38:46,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:38:46,562]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:38:46,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 269
+[2011-04-11 16:41:12,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:41:12,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:41:12,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 271
+[2011-04-11 16:41:15,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=22379
+[2011-04-11 16:41:15,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 174
+[2011-04-11 16:41:33,296]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:41:33,296]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:41:33,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 272
+[2011-04-11 16:41:48,718]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:41:48,734]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:41:48,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:41:48,734]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:41:52,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 273
+[2011-04-11 16:42:18,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112132
+[2011-04-11 16:42:18,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112132,userID=19330,sequence=0,mapsize=1
+[2011-04-11 16:42:18,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112132,userID=19378,sequence=1,mapsize=1
+[2011-04-11 16:42:18,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112132,userID=19390,sequence=2,mapsize=1
+[2011-04-11 16:42:20,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 274
+[2011-04-11 16:43:10,984]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112156
+[2011-04-11 16:43:10,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112156,userID=19372,sequence=0,mapsize=1
+[2011-04-11 16:43:10,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112156,userID=19373,sequence=1,mapsize=1
+[2011-04-11 16:43:12,500]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 275
+[2011-04-11 16:43:56,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:43:56,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:43:57,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 276
+[2011-04-11 16:44:18,312]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:44:18,312]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:44:18,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 277
+[2011-04-11 16:44:23,687]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:44:23,703]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:44:23,703]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:44:23,703]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:44:27,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 278
+[2011-04-11 16:44:42,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:44:42,218]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:44:42,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 279
+[2011-04-11 16:46:07,500]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 16:46:07,515]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 16:46:07,515]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 16:46:07,515]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19388,sequence=2,mapsize=1
+[2011-04-11 16:46:11,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 280
+[2011-04-11 16:46:20,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 16:46:20,421]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 16:46:20,421]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=1,mapsize=1
+[2011-04-11 16:46:20,421]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19389,sequence=2,mapsize=1
+[2011-04-11 16:46:23,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 281
+[2011-04-11 16:50:44,578]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:50:44,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:50:44,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:50:44,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:50:44,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 289
+[2011-04-11 16:50:54,203]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:50:54,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19327,sequence=0,mapsize=1
+[2011-04-11 16:50:54,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19329,sequence=1,mapsize=1
+[2011-04-11 16:50:54,203]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19333,sequence=2,mapsize=1
+[2011-04-11 16:50:54,281]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 290
+[2011-04-11 16:51:01,421]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:51:01,421]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:51:01,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 291
+[2011-04-11 16:51:23,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:51:23,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:51:23,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 292
+[2011-04-11 16:51:27,421]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:51:27,437]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19352,sequence=0,mapsize=1
+[2011-04-11 16:51:27,437]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19354,sequence=1,mapsize=1
+[2011-04-11 16:51:27,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 293
+[2011-04-11 16:51:46,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:51:46,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:51:47,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 294
+[2011-04-11 16:51:48,484]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:51:48,500]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=19352,sequence=0,mapsize=1
+[2011-04-11 16:51:48,500]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21010,userID=19354,sequence=1,mapsize=1
+[2011-04-11 16:51:49,625]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 295
+[2011-04-11 16:53:31,453]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 16:53:31,453]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 16:53:31,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 296
+[2011-04-11 16:55:20,875]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:55:20,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:55:21,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 297
+[2011-04-11 16:55:39,281]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:55:39,281]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:55:39,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 298
+[2011-04-11 16:55:59,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:55:59,593]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:55:59,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:55:59,593]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:56:03,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 299
+[2011-04-11 16:57:56,875]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 16:57:56,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 16:57:56,875]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 16:57:56,875]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19386,sequence=2,mapsize=1
+[2011-04-11 16:58:00,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 300
+[2011-04-11 16:59:00,812]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 16:59:00,828]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 16:59:00,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 301
+[2011-04-11 16:59:17,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 16:59:17,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 16:59:17,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 302
+[2011-04-11 17:00:12,453]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 17:00:12,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 303
+[2011-04-11 17:12:03,343]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 17:12:03,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 17:12:03,359]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 17:12:05,203]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 304
+[2011-04-11 17:15:15,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 17:15:15,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19379,sequence=0,mapsize=1
+[2011-04-11 17:15:15,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 305
+[2011-04-11 17:15:33,640]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 17:15:33,640]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19381,sequence=0,mapsize=1
+[2011-04-11 17:15:33,718]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 306
+[2011-04-11 17:16:33,000]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 17:16:33,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 307
+[2011-04-11 17:17:08,296]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=22379
+[2011-04-11 17:17:08,312]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=22379,userID=19311,sequence=0,mapsize=1
+[2011-04-11 17:17:09,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 308
+[2011-04-11 17:19:33,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112138
+[2011-04-11 17:19:33,328]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112138,userID=19317,sequence=0,mapsize=1
+[2011-04-11 17:19:33,328]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112138,userID=19331,sequence=1,mapsize=1
+[2011-04-11 17:19:33,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112113
+[2011-04-11 17:19:33,937]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112113,userID=19310,sequence=0,mapsize=1
+[2011-04-11 17:19:33,937]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19325,sequence=1,mapsize=1
+[2011-04-11 17:19:33,937]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112113,userID=19371,sequence=2,mapsize=1
+[2011-04-11 17:19:36,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 311
+[2011-04-11 17:19:43,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 310
+[2011-04-11 17:19:47,531]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 17:19:47,546]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 17:19:47,546]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 17:19:49,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 312
+[2011-04-11 17:22:33,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 17:22:33,375]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 17:22:33,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 313
+[2011-04-11 17:25:01,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112146
+[2011-04-11 17:25:01,828]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112146,userID=19344,sequence=0,mapsize=1
+[2011-04-11 17:25:03,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 314
+[2011-04-11 17:26:44,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112114
+[2011-04-11 17:26:44,781]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112114,userID=19303,sequence=0,mapsize=1
+[2011-04-11 17:26:44,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19383,sequence=1,mapsize=1
+[2011-04-11 17:26:44,781]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112114,userID=19389,sequence=2,mapsize=1
+[2011-04-11 17:26:47,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 315
+[2011-04-11 17:27:14,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 17:27:14,328]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 17:27:14,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 316
+[2011-04-11 17:28:29,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 17:28:29,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 17:28:29,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 17:28:29,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19387,sequence=2,mapsize=1
+[2011-04-11 17:28:30,640]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 317
+[2011-04-11 17:28:50,375]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112145
+[2011-04-11 17:28:50,375]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112145,userID=19346,sequence=0,mapsize=1
+[2011-04-11 17:28:50,375]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19347,sequence=1,mapsize=1
+[2011-04-11 17:28:50,375]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112145,userID=19387,sequence=2,mapsize=1
+[2011-04-11 17:28:51,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 318
+[2011-04-11 17:30:37,312]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112146
+[2011-04-11 17:30:37,312]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112146,userID=19344,sequence=0,mapsize=1
+[2011-04-11 17:30:38,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 319
+[2011-04-11 17:31:34,703]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 17:31:34,703]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 17:31:34,703]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 17:31:36,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 320
+[2011-04-11 17:32:09,437]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 17:32:09,437]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 17:32:09,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 321
+[2011-04-11 17:34:28,859]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 17:34:28,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 17:34:28,875]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 17:34:28,875]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19388,sequence=2,mapsize=1
+[2011-04-11 17:34:32,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 322
+[2011-04-11 17:35:04,109]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 17:35:04,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 17:35:04,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 17:35:04,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19388,sequence=2,mapsize=1
+[2011-04-11 17:35:07,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 323
+[2011-04-11 17:39:46,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 17:39:46,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 17:39:46,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 324
+[2011-04-11 17:41:28,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 17:41:28,203]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19374,sequence=0,mapsize=1
+[2011-04-11 17:41:30,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 325
+[2011-04-11 17:44:19,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 17:44:19,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19374,sequence=0,mapsize=1
+[2011-04-11 17:44:21,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 326
+[2011-04-11 17:44:47,015]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 17:44:47,031]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 17:44:47,031]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 17:44:48,578]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 327
+[2011-04-11 17:45:00,875]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112155
+[2011-04-11 17:45:00,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112155,userID=19374,sequence=0,mapsize=1
+[2011-04-11 17:45:03,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 328
+[2011-04-11 17:45:58,703]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 17:45:58,703]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112158
+[2011-04-11 17:45:58,750]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 17:45:58:750][1111234j][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 17:45:58,750]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112158,sessionID= 329
+[2011-04-11 17:45:59,093]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 17:45:59,093]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 17:46:04,281]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 17:46:04,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 329
+[2011-04-11 17:46:39,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 17:46:39,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 17:46:41,406]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 330
+[2011-04-11 17:47:26,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 17:47:26,656]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 17:47:28,812]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 331
+[2011-04-11 17:48:38,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 17:48:38,109]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 17:48:38,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 17:48:38,109]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19393,sequence=2,mapsize=1
+[2011-04-11 17:48:41,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 332
+[2011-04-11 17:49:15,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 17:49:15,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 17:49:15,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 17:49:15,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19393,sequence=2,mapsize=1
+[2011-04-11 17:49:18,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 333
+[2011-04-11 17:51:03,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 17:51:03,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 17:51:04,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 334
+[2011-04-11 17:52:46,875]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 17:52:46,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 17:52:49,125]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 335
+[2011-04-11 17:53:35,796]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112151
+[2011-04-11 17:53:35,812]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112151,userID=19365,sequence=0,mapsize=1
+[2011-04-11 17:53:35,812]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112151,userID=19370,sequence=1,mapsize=1
+[2011-04-11 17:53:36,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 336
+[2011-04-11 17:54:33,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21186
+[2011-04-11 17:54:33,984]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21186,userID=16617,sequence=0,mapsize=1
+[2011-04-11 17:54:33,984]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21186,userID=16619,sequence=1,mapsize=1
+[2011-04-11 17:54:34,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 337
+[2011-04-11 17:56:54,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 17:56:54,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 338
+[2011-04-11 17:57:51,218]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-11 17:57:51,218]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112159
+[2011-04-11 17:57:51,265]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-11 17:57:51:265][25478960][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-11 17:57:51,265]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112159,sessionID= 339
+[2011-04-11 17:57:51,515]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-11 17:57:51,515]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-11 17:57:54,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112159
+[2011-04-11 17:57:54,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 339
+[2011-04-11 17:59:20,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 17:59:20,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 17:59:20,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 17:59:20,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19394,sequence=2,mapsize=1
+[2011-04-11 17:59:24,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 340
+[2011-04-11 18:00:18,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 18:00:18,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19396,sequence=0,mapsize=1
+[2011-04-11 18:00:21,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 341
+[2011-04-11 18:02:40,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21301
+[2011-04-11 18:02:40,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21301,userID=8147,sequence=0,mapsize=1
+[2011-04-11 18:02:40,625]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=15570,sequence=1,mapsize=1
+[2011-04-11 18:02:40,625]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21301,userID=19391,sequence=2,mapsize=1
+[2011-04-11 18:02:43,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 342
+[2011-04-11 18:02:46,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:02:46,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 343
+[2011-04-11 18:05:51,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 18:05:51,484]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 18:05:51,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 344
+[2011-04-11 18:06:23,875]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:06:23,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 345
+[2011-04-11 18:06:25,609]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:06:25,609]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:06:25,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 345
+[2011-04-11 18:08:37,765]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:08:37,765]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:08:38,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 346
+[2011-04-11 18:14:08,843]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21326
+[2011-04-11 18:14:08,859]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21326,userID=19356,sequence=0,mapsize=1
+[2011-04-11 18:14:08,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19363,sequence=1,mapsize=1
+[2011-04-11 18:14:08,859]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=21326,userID=19393,sequence=2,mapsize=1
+[2011-04-11 18:16:27,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:16:27,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:16:27,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 348
+[2011-04-11 18:21:27,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 18:21:27,140]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 18:21:27,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 18:21:27,140]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19394,sequence=2,mapsize=1
+[2011-04-11 18:21:30,453]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 349
+[2011-04-11 18:23:48,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112111
+[2011-04-11 18:23:48,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112111,userID=19302,sequence=0,mapsize=1
+[2011-04-11 18:23:48,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19326,sequence=1,mapsize=1
+[2011-04-11 18:23:48,125]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112111,userID=19394,sequence=2,mapsize=1
+[2011-04-11 18:23:50,578]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 350
+[2011-04-11 18:25:55,328]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:25:55,343]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 18:25:55,812]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 351
+[2011-04-11 18:26:44,890]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:26:45,031]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 352
+[2011-04-11 18:26:54,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:26:54,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 18:26:55,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 353
+[2011-04-11 18:27:25,734]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:27:25,734]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:27:26,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 354
+[2011-04-11 18:31:37,421]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:31:37,421]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:31:37,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 355
+[2011-04-11 18:33:18,406]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:33:18,406]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:33:18,656]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 356
+[2011-04-11 18:34:13,968]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:34:13,968]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:34:14,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 357
+[2011-04-11 18:35:43,078]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:35:43,078]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 18:35:43,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 358
+[2011-04-11 18:39:42,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 18:39:42,375]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19396,sequence=0,mapsize=1
+[2011-04-11 18:39:44,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 359
+[2011-04-11 18:39:48,593]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 18:39:48,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 18:39:50,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 359
+[2011-04-11 18:42:28,906]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 18:42:28,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 18:42:31,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 360
+[2011-04-11 18:42:36,187]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112158
+[2011-04-11 18:42:36,187]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112158,userID=19395,sequence=0,mapsize=1
+[2011-04-11 18:42:38,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 360
+[2011-04-11 18:47:25,625]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 18:47:25,640]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 18:47:25,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 361
+[2011-04-11 18:55:41,656]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 18:55:41,671]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 18:55:42,265]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 362
+[2011-04-11 18:56:40,859]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 18:56:40,875]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 18:56:40,875]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 18:56:42,687]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 363
+[2011-04-11 18:59:01,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 18:59:01,828]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 18:59:02,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 364
+[2011-04-11 19:01:16,921]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 19:01:16,921]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 19:01:17,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 365
+[2011-04-11 19:05:25,750]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 19:05:25,750]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 19:05:25,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 366
+[2011-04-11 19:06:03,359]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 19:06:03,359]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 19:06:03,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 367
+[2011-04-11 19:27:38,625]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 19:27:38,625]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19361,sequence=0,mapsize=1
+[2011-04-11 19:27:38,859]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 368
+[2011-04-11 19:32:53,125]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112149
+[2011-04-11 19:32:53,125]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112149,userID=19398,sequence=0,mapsize=1
+[2011-04-11 19:32:53,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 369
+[2011-04-11 19:36:32,468]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=21010
+[2011-04-11 19:36:32,468]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=21010,userID=8254,sequence=0,mapsize=1
+[2011-04-11 19:36:32,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 370
+[2011-04-11 20:02:58,390]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 20:02:58,390]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 20:02:58,390]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 20:03:00,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 371
+[2011-04-11 20:03:40,890]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112138
+[2011-04-11 20:03:40,906]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112138,userID=19317,sequence=0,mapsize=1
+[2011-04-11 20:03:40,906]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112138,userID=19331,sequence=1,mapsize=1
+[2011-04-11 20:03:48,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 372
+[2011-04-11 21:58:15,828]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 21:58:15,828]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 21:58:15,828]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 21:58:17,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 373
+[2011-04-11 22:09:27,093]-DEBUG (me2.server.login.db.LoginDAO:743)|##### getUserIDListByAccountID=112137
+[2011-04-11 22:09:27,093]-INFO  (me2.server.login.db.LoginDAO:766)|####### accountID=112137,userID=19314,sequence=0,mapsize=1
+[2011-04-11 22:09:27,093]-INFO  (me2.server.login.db.LoginDAO:771)|###@@@@ accountID=112137,userID=19360,sequence=1,mapsize=1
+[2011-04-11 22:09:28,593]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 374

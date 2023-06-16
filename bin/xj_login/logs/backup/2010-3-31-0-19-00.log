@@ -1,0 +1,588 @@
+2010-02-02 16:50:50,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-02 16:50:51,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-02 17:33:29,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-02 17:33:30,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:31:27,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:31:29,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:38:04,828 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:38:06,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:39:35,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:39:37,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:42:04,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:42:06,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:46:08,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:46:10,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:55:47,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:55:48,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 21:57:41,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 21:57:42,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:02:15,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:02:17,312 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:08:31,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:08:33,093 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:11:04,968 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:11:06,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:13:04,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:13:05,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:15:57,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:15:58,796 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:28:41,703 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:28:43,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:35:05,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:35:07,187 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:37:13,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:37:15,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:38:40,187 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:38:41,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:47:25,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:47:26,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:56:02,046 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:56:03,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:57:53,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:57:54,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 22:59:36,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 22:59:38,156 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 23:01:03,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 23:01:04,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 23:02:43,281 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 23:02:44,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 23:09:19,250 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 23:09:20,640 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 23:11:08,093 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 23:11:09,671 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-03 23:12:55,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-03 23:12:57,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 11:54:04,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 11:54:06,453 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 11:59:41,750 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 11:59:43,156 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:01:01,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:01:03,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:06:01,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:06:03,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:07:56,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:07:57,640 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:09:10,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:09:12,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:21:47,250 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:21:48,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:41:05,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:41:06,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 12:52:17,968 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 12:52:19,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:08:19,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:08:21,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:16:38,140 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:16:39,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:18:32,062 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:18:33,515 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:22:28,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:22:29,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:30:11,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:30:12,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:36:35,140 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:36:36,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:37:47,609 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:37:49,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 13:43:08,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 13:43:09,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 14:14:22,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 14:14:24,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 14:22:26,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 14:22:27,750 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 16:20:57,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 16:20:59,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 17:44:01,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 17:44:02,906 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 19:01:31,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 19:01:33,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 20:34:54,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 20:34:56,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 20:56:47,781 [http-3333-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1064)
+	at me2.server.login.LoginService.selectServer(LoginService.java:877)
+	at me2.server.login.LoginService.process(LoginService.java:231)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-02-04 20:56:47,781 [http-3333-Processor25] INFO  ME2 - response is null
+2010-02-04 20:58:01,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 20:58:03,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 21:06:02,265 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 21:06:03,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 21:54:00,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 21:54:02,484 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 22:08:51,500 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 22:08:53,171 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 22:10:31,234 [http-3333-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1064)
+	at me2.server.login.LoginService.selectServer(LoginService.java:877)
+	at me2.server.login.LoginService.process(LoginService.java:231)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-02-04 22:10:31,234 [http-3333-Processor24] INFO  ME2 - response is null
+2010-02-04 22:10:51,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 22:10:53,171 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 22:42:19,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 22:42:21,468 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 23:01:43,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 23:01:45,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-04 23:47:00,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-04 23:47:01,562 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 00:04:17,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 00:04:19,312 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 00:27:51,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 00:27:53,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 00:29:54,046 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 00:29:55,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 01:09:17,671 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 01:09:19,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 01:35:44,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 01:35:45,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 01:42:24,968 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 01:42:26,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 01:48:57,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 01:48:59,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-05 13:32:20,265 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-05 13:32:21,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 20:30:20,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 20:30:22,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 20:37:13,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 20:37:15,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 20:49:04,281 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 20:49:05,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 20:51:04,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 20:51:06,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 20:56:28,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 20:56:30,125 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 21:00:49,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 21:00:50,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 21:09:20,203 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 21:09:21,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 21:14:39,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 21:14:40,718 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 21:18:51,062 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 21:18:52,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 22:10:22,031 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 22:10:23,562 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 23:04:06,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 23:04:07,937 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-06 23:55:47,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 23:55:51,968 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-06 23:55:53,656 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 13:53:08,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 13:53:10,515 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:11:54,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:11:55,906 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:26:36,234 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:26:37,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:37:55,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:37:57,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:38:04,359 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:38:06,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:46:21,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:46:22,718 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:50:59,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:51:00,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 16:56:00,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 16:56:01,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 17:08:03,015 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 17:08:04,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 17:09:09,828 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 17:09:11,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 18:05:49,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 18:05:50,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 18:52:34,562 [http-3333-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1064)
+	at me2.server.login.LoginService.selectServer(LoginService.java:877)
+	at me2.server.login.LoginService.process(LoginService.java:231)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-02-07 18:52:34,562 [http-3333-Processor24] INFO  ME2 - response is null
+2010-02-07 18:53:34,703 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 18:53:36,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 19:13:37,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 19:13:39,125 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 19:57:51,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 19:57:52,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 20:27:17,515 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 20:27:18,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 20:37:22,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 20:37:24,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 20:39:10,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 20:39:12,421 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 21:42:42,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 21:42:43,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 21:58:44,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 21:58:46,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-07 22:50:40,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-07 22:50:41,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 09:29:53,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 09:29:55,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 11:07:58,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 11:07:59,703 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 11:43:43,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 11:43:45,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 12:03:54,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 12:03:55,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 12:15:08,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 12:15:10,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 12:24:40,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 12:24:41,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 13:25:37,765 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 13:25:39,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 13:35:44,656 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 13:35:46,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 13:36:30,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 13:36:32,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 13:38:14,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 13:38:16,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 13:43:26,093 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 13:43:27,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 15:01:18,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 15:01:19,875 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 15:11:46,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 15:11:47,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 15:15:22,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 15:15:24,093 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 15:21:44,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 15:21:46,421 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 16:27:51,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 16:27:53,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 16:31:36,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 16:31:37,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-08 17:05:15,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-08 17:05:16,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 14:18:22,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 14:18:24,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 14:42:54,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 14:42:56,312 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 15:37:11,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 15:37:12,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 15:45:51,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 15:45:53,203 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 15:49:36,015 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 15:49:36,343 [main] INFO  ME2 - Error in me2.server.login.db.LoginDAO::init()
+java.sql.SQLException: Couldn't perform the operation prepareStatement: You can't perform any operations on this connection. It has been automatically closed by Proxool for some reason (see logs).
+2010-02-10 15:49:41,062 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 15:49:42,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:14:55,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:14:56,671 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:30:41,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:30:43,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:34:52,281 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:34:53,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:34:58,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:34:59,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:40:52,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:40:54,140 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:56:50,500 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:56:51,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 16:56:57,671 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 16:56:59,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 17:13:33,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 17:13:35,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 17:13:47,765 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 17:13:49,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 17:44:00,140 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 17:44:01,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 17:53:13,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 17:53:15,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 18:01:17,078 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 18:01:18,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-10 18:09:08,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-10 18:09:10,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 09:51:30,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 09:51:32,750 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 10:03:37,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 10:03:39,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 10:38:35,968 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 10:38:37,468 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 10:44:23,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 10:44:25,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 11:14:24,203 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 11:14:25,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 11:16:52,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 11:16:54,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 11:22:21,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 11:22:22,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 11:45:46,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 11:45:47,937 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 11:53:44,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 11:53:46,015 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 12:18:59,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 12:19:01,187 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 12:36:43,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 12:36:45,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 12:36:53,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 12:36:54,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 12:47:14,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 12:47:16,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-11 12:49:39,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-11 12:49:40,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-21 12:08:07,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-21 12:08:08,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-21 13:49:36,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-21 13:49:37,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-21 17:56:31,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-21 17:56:33,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 09:57:08,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 09:57:10,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 11:34:45,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 11:34:46,906 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 11:40:40,609 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 11:40:42,187 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 11:45:20,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 11:45:21,609 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 15:58:11,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 15:58:13,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 16:03:59,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 16:04:01,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 16:36:46,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 16:36:48,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-22 16:39:30,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-22 16:39:31,828 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 08:53:24,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 08:53:26,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 11:16:47,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 11:16:48,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 12:07:36,484 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 12:07:38,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 12:12:36,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 12:12:38,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 13:47:04,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 13:47:06,187 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 13:48:25,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 13:48:26,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 14:48:38,093 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 14:48:39,703 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 14:55:02,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 14:55:03,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 15:25:24,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 15:25:25,562 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 15:32:20,000 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 15:32:21,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 16:16:43,078 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 16:16:44,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 16:18:20,203 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 16:18:21,656 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 16:32:43,359 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 16:32:44,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 16:52:23,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 16:52:25,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 16:58:01,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 16:58:03,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 17:05:38,046 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 17:05:39,484 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 17:10:39,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 17:10:41,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-23 17:16:02,515 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-23 17:16:04,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-24 08:44:59,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-24 08:45:02,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-24 09:20:18,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-24 09:20:20,093 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-24 09:22:34,828 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-24 09:22:36,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-25 14:21:01,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-25 14:21:03,609 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-26 12:07:32,750 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-26 12:07:34,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-26 12:20:04,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-26 12:20:05,625 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-02-26 12:36:01,765 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-02-26 12:36:03,437 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 10:57:43,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 10:57:45,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 13:31:42,906 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 13:31:44,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 13:32:14,031 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 13:32:15,468 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 16:15:55,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 16:15:57,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 16:24:58,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 16:25:00,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 16:51:44,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 16:51:46,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 17:10:06,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 17:10:07,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 17:29:05,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 17:29:07,453 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 17:53:36,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 17:53:38,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-01 17:57:44,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-01 17:57:45,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-02 08:53:33,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-02 08:53:35,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-02 13:46:16,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-02 13:46:18,203 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-02 13:50:41,656 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-02 13:50:43,140 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-02 15:35:15,218 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-02 15:35:16,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-03 09:31:53,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-03 09:31:55,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-03 11:03:46,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-03 11:03:47,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-03 11:16:30,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-03 11:16:31,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-03 11:24:11,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-03 11:24:12,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-03 11:34:28,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-03 11:34:30,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 10:07:20,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 10:07:22,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 11:18:09,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 11:18:10,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 11:28:50,359 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 11:28:51,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 11:32:32,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 11:32:33,875 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 11:35:06,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 11:35:08,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 15:01:53,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 15:01:55,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-04 15:05:54,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-04 15:05:56,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 09:21:20,250 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 09:21:21,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 09:52:23,765 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 09:52:25,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 10:14:43,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 10:14:45,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 10:18:25,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 10:18:27,515 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 10:21:17,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 10:21:18,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 11:18:52,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 11:18:53,781 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 13:02:08,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 13:02:09,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 13:05:42,250 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 13:05:43,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 13:08:35,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 13:08:37,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 13:11:58,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 13:12:00,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 13:21:39,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 13:21:41,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 15:59:04,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 15:59:06,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 16:08:29,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 16:08:30,609 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 16:19:21,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 16:19:23,421 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 16:57:42,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 16:57:43,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 17:03:52,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 17:03:53,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-05 17:17:33,828 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-05 17:17:35,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 08:52:57,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 08:52:59,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 09:52:23,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 09:52:25,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 10:11:25,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 10:11:26,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 10:18:59,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 10:19:01,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 10:20:55,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 10:20:57,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 11:27:13,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 11:27:14,718 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-08 13:36:37,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-08 13:36:39,453 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-09 10:10:23,203 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-09 10:10:25,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-09 10:39:34,609 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-09 10:39:36,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-09 14:41:46,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-09 14:41:47,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-09 15:04:22,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-09 15:04:23,546 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 08:53:29,234 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 08:53:30,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:16:49,359 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:16:50,796 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:30:06,281 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:30:07,703 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:33:23,093 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:33:24,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:38:47,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:38:48,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:42:29,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:42:31,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 09:51:52,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 09:51:54,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 11:37:53,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 11:37:55,156 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 11:41:04,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 11:41:05,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 11:49:54,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 11:49:56,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 14:35:21,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 14:35:23,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 14:48:21,359 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 14:48:22,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 14:56:07,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 14:56:08,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-10 15:39:11,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-10 15:39:12,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-11 09:21:57,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-15 11:01:53,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-30 17:03:09,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-30 17:03:11,421 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-30 17:08:53,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-30 17:08:55,015 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-03-30 18:19:00,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-03-30 18:19:02,328 [main] INFO  ME2 - 昵称过滤列表加载完毕

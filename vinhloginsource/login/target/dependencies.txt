@@ -1,0 +1,13 @@
+digraph "yoyo.server:login:jar:1.0.0" { 
+	"yoyo.server:login:jar:1.0.0" -> "junit:junit:jar:4.11:test" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:commons-collections:jar:2.1.1:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:commons-logging:jar:1.0.0:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:dom4j:jar:1.6.1:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:javolution:jar:1.0.0:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:log4j:jar:1.2.11:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:login:jar:1.0.0:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:mysql-connector:jar:5.0.3:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:proxool:jar:0.9.0:system" ; 
+	"yoyo.server:login:jar:1.0.0" -> "vinh.commons:servlet-api:jar:1.0.0:system" ; 
+	"junit:junit:jar:4.11:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
+ } 

@@ -1,0 +1,199 @@
+2010-05-28 00:42:28,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 00:42:28,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 09:14:08,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 09:14:09,359 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 09:35:48,062 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 09:35:49,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 09:41:38,609 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 09:41:39,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 09:41:44,484 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 09:41:44,906 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 09:46:01,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 09:46:02,171 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 10:52:34,656 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 10:52:34,656 [http-7000-Processor24] INFO  ME2 - response is null
+2010-05-28 11:02:31,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 11:02:33,203 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 13:43:42,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 13:43:43,890 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 13:51:28,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 13:51:29,015 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 13:56:51,031 [http-7000-Processor25] ERROR ME2 - 
+java.sql.SQLException: org.logicalcobwebs.proxool.ProxoolException: Attempt to refer to a unregistered pool by its alias 'HERO'
+	at org.logicalcobwebs.proxool.ProxoolDriver.connect(ProxoolDriver.java:109)
+	at java.sql.DriverManager.getConnection(DriverManager.java:582)
+	at java.sql.DriverManager.getConnection(DriverManager.java:207)
+	at me2.server.login.db.DBConnectionPool.getConnection(DBConnectionPool.java:116)
+	at me2.server.login.db.LoginDAO.getUserIDListByAccountID(LoginDAO.java:599)
+	at me2.server.login.LoginService.selectServer(LoginService.java:845)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 13:56:51,031 [http-7000-Processor25] ERROR ME2 - 
+java.lang.NullPointerException
+	at me2.server.login.db.LoginDAO.getUserIDListByAccountID(LoginDAO.java:600)
+	at me2.server.login.LoginService.selectServer(LoginService.java:845)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 13:56:57,015 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 13:56:57,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 14:05:55,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 14:05:55,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 14:32:10,671 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 14:32:11,125 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 16:27:42,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-28 16:28:04,250 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-28 16:34:46,828 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 16:34:46,828 [http-7000-Processor24] INFO  ME2 - response is null
+2010-05-28 16:48:17,546 [http-7000-Processor25] INFO  ME2 - response is null
+2010-05-28 17:35:33,062 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.createSession(GameService.java:236)
+	at me2.server.login.LoginService.enterGame(LoginService.java:1257)
+	at me2.server.login.LoginService.process(LoginService.java:252)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 17:35:33,062 [http-7000-Processor24] INFO  ME2 - response is null
+2010-05-28 17:35:43,781 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 17:35:43,781 [http-7000-Processor25] INFO  ME2 - response is null
+2010-05-28 17:35:56,468 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-28 17:35:56,468 [http-7000-Processor24] INFO  ME2 - response is null
+2010-05-30 09:46:39,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-30 09:47:02,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-30 09:48:47,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-30 09:48:55,703 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-30 09:49:17,187 [main] INFO  ME2 - 昵称过滤列表加载完毕

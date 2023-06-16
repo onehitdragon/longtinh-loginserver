@@ -1,0 +1,7 @@
+[2011-05-01 14:11:00,812]-DEBUG (me2.server.login.LoginService:1460)|upd curr publisher ..
+[2011-05-01 14:11:00,843]-DEBUG (me2.server.login.LoginService:1462)|upd curr publisher .. res =1
+[2011-05-01 14:11:01,156]-INFO  (me2.server.login.LoginService:544)|请求Loading 提示列表
+[2011-05-01 14:11:02,500]-DEBUG (me2.server.login.db.LoginDAO:835)|##### getUserIDListByAccountID=112207
+[2011-05-01 14:11:02,515]-INFO  (me2.server.login.db.LoginDAO:858)|####### accountID=112207,userID=20064,sequence=0,mapsize=1
+[2011-05-01 14:11:02,515]-INFO  (me2.server.login.db.LoginDAO:863)|###@@@@ accountID=112207,userID=20211,sequence=1,mapsize=1
+[2011-05-01 14:11:06,218]-INFO  (me2.server.login.LoginService:419)|#####　进行默认角色信息 serverID=1 ,sessionID= 520

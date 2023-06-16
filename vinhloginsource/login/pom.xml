@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>yoyo.server</groupId>
+  <artifactId>login</artifactId>
+  <version>1.0.0</version>
+
+  <name>login</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>commons-collections</artifactId>
+      <version>2.1.1</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/commons-collections-2.1.1.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.0.4</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/commons-logging-1.0.4.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/commons-logging.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>dom4j</artifactId>
+      <version>1.6.1</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/dom4j-1.6.1.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>javolution</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/javolution.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.11</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/log4j-1.2.11.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>login</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/login.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>mysql-connector</artifactId>
+      <version>5.0.3</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/mysql-connector-java-5.0.3-bin.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>proxool</artifactId>
+      <version>0.9.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/proxool-0.9.0RC3.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>vinh.commons</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/servlet-api.jar</systemPath>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <sourceDirectory>src/</sourceDirectory>
+  </build>
+</project>

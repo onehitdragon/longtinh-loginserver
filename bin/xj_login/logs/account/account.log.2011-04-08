@@ -1,0 +1,371 @@
+[2011-04-08 09:41:29,948]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 118
+[2011-04-08 09:49:33,433]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 119
+[2011-04-08 09:51:24,558]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 120
+[2011-04-08 09:53:34,355]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 121
+[2011-04-08 10:04:08,651]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 122
+[2011-04-08 10:21:56,542]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 123
+[2011-04-08 10:28:17,511]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 125
+[2011-04-08 10:28:38,245]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 126
+[2011-04-08 10:30:37,933]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 127
+[2011-04-08 10:42:51,620]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 128
+[2011-04-08 10:43:25,917]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 129
+[2011-04-08 10:54:04,417]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 130
+[2011-04-08 10:54:49,292]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 131
+[2011-04-08 10:56:52,386]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 132
+[2011-04-08 10:57:53,292]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 133
+[2011-04-08 10:58:21,745]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 134
+[2011-04-08 10:59:47,292]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 135
+[2011-04-08 11:00:16,995]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 136
+[2011-04-08 11:02:54,636]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 137
+[2011-04-08 11:03:57,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 138
+[2011-04-08 11:04:35,511]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 139
+[2011-04-08 11:05:07,714]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 140
+[2011-04-08 11:05:14,089]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 141
+[2011-04-08 11:05:30,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 142
+[2011-04-08 11:06:39,386]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 144
+[2011-04-08 11:06:48,667]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 145
+[2011-04-08 11:07:27,698]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 146
+[2011-04-08 11:07:53,823]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 11:07:53,823]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112132
+[2011-04-08 11:07:53,917]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 11:07:53:917][040811][041811][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 11:07:53,917]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112132,sessionID= 147
+[2011-04-08 11:07:54,245]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 11:07:54,245]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 11:07:56,698]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 147
+[2011-04-08 11:08:07,464]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 11:08:07,464]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112133
+[2011-04-08 11:08:07,542]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 11:08:07:542][zxx123][123456][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 11:08:07,542]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112133,sessionID= 148
+[2011-04-08 11:08:07,886]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 11:08:07,886]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 11:08:30,433]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 148
+[2011-04-08 11:09:20,620]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 149
+[2011-04-08 11:10:07,745]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 11:10:07,745]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112134
+[2011-04-08 11:10:07,761]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 11:10:07:761][87654321][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 11:10:21,026]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 11:10:21,026]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112135
+[2011-04-08 11:10:21,073]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 11:10:21:73][654321][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 11:10:21,073]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112135,sessionID= 150
+[2011-04-08 11:10:21,448]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 11:10:21,448]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 11:10:22,839]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 150
+[2011-04-08 11:12:47,464]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 151
+[2011-04-08 11:19:58,073]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 11:19:58,073]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112136
+[2011-04-08 11:19:58,136]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 11:19:58:136][maple90][123321][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 11:19:58,136]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112136,sessionID= 152
+[2011-04-08 11:19:58,651]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 11:19:58,651]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 11:20:17,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 152
+[2011-04-08 11:24:49,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 153
+[2011-04-08 11:25:58,401]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 154
+[2011-04-08 11:30:58,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 155
+[2011-04-08 11:38:57,917]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 156
+[2011-04-08 12:54:19,464]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 157
+[2011-04-08 12:59:04,511]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 159
+[2011-04-08 12:59:37,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 160
+[2011-04-08 12:59:53,558]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 161
+[2011-04-08 13:00:47,636]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 162
+[2011-04-08 13:00:57,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 163
+[2011-04-08 13:01:30,573]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 164
+[2011-04-08 13:01:52,417]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 165
+[2011-04-08 13:01:56,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 166
+[2011-04-08 13:02:06,839]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 165
+[2011-04-08 13:02:15,214]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 167
+[2011-04-08 13:02:39,042]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 170
+[2011-04-08 13:03:11,933]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 171
+[2011-04-08 13:03:51,386]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 173
+[2011-04-08 13:04:17,605]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 174
+[2011-04-08 13:04:46,073]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 175
+[2011-04-08 13:04:50,542]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 176
+[2011-04-08 13:05:54,245]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 178
+[2011-04-08 13:05:56,183]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 179
+[2011-04-08 13:05:59,183]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 180
+[2011-04-08 13:06:01,198]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 181
+[2011-04-08 13:06:36,730]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 182
+[2011-04-08 13:06:44,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 183
+[2011-04-08 13:06:55,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 184
+[2011-04-08 13:07:05,776]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 185
+[2011-04-08 13:07:26,495]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 13:07:26,511]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112137
+[2011-04-08 13:07:26,558]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 13:07:26:558][00000007][00000000][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 13:07:26,558]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112137,sessionID= 186
+[2011-04-08 13:07:27,214]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 13:07:27,214]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 13:07:28,636]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 186
+[2011-04-08 13:07:32,964]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 187
+[2011-04-08 13:08:01,198]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 188
+[2011-04-08 13:08:38,339]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 189
+[2011-04-08 13:09:01,948]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 190
+[2011-04-08 13:09:34,464]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 191
+[2011-04-08 13:09:39,964]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 191
+[2011-04-08 13:10:00,167]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 192
+[2011-04-08 13:10:47,589]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 193
+[2011-04-08 13:11:20,651]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 194
+[2011-04-08 13:11:48,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 195
+[2011-04-08 13:12:41,542]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 196
+[2011-04-08 13:12:46,011]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 197
+[2011-04-08 13:13:45,214]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 198
+[2011-04-08 13:13:48,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 199
+[2011-04-08 13:14:39,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 200
+[2011-04-08 13:14:48,370]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 201
+[2011-04-08 13:15:14,542]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 202
+[2011-04-08 13:15:34,276]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 203
+[2011-04-08 13:16:20,417]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 204
+[2011-04-08 13:17:32,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 206
+[2011-04-08 13:17:35,089]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 13:17:35,089]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112138
+[2011-04-08 13:17:35,136]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 13:17:35:136][15975382][15975382][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 13:17:35,136]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112138,sessionID= 207
+[2011-04-08 13:17:35,714]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 13:17:35,714]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 13:17:38,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 207
+[2011-04-08 13:21:18,261]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 208
+[2011-04-08 13:22:57,058]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 209
+[2011-04-08 13:24:07,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 210
+[2011-04-08 13:24:10,042]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 210
+[2011-04-08 13:26:28,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 211
+[2011-04-08 13:27:46,230]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 212
+[2011-04-08 13:28:31,026]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 213
+[2011-04-08 13:28:50,855]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 214
+[2011-04-08 13:28:57,308]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 214
+[2011-04-08 13:29:06,698]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 215
+[2011-04-08 13:29:46,870]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 216
+[2011-04-08 13:30:36,886]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 217
+[2011-04-08 13:30:52,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 218
+[2011-04-08 13:31:59,948]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 219
+[2011-04-08 13:32:19,417]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 220
+[2011-04-08 13:37:11,230]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 13:37:11,230]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112139
+[2011-04-08 13:37:11,292]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 13:37:11:292][36521411][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 13:37:11,292]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112139,sessionID= 221
+[2011-04-08 13:37:15,073]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 13:37:15,073]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 13:37:20,261]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 221
+[2011-04-08 13:38:54,308]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 222
+[2011-04-08 13:41:29,886]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 223
+[2011-04-08 13:50:05,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 224
+[2011-04-08 13:53:32,683]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 225
+[2011-04-08 13:59:20,042]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 13:59:20,042]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112140
+[2011-04-08 13:59:20,073]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 13:59:20:73][59266795][64228187][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 13:59:20,073]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112140,sessionID= 226
+[2011-04-08 13:59:20,714]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 13:59:20,714]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 13:59:26,480]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 226
+[2011-04-08 14:04:23,886]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 227
+[2011-04-08 14:05:52,761]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 228
+[2011-04-08 14:23:36,651]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 14:23:36,651]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112141
+[2011-04-08 14:23:36,714]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 14:23:36:714][11111116][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 14:23:36,714]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112141,sessionID= 229
+[2011-04-08 14:23:37,339]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 14:23:37,339]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 14:23:38,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 229
+[2011-04-08 14:24:48,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 230
+[2011-04-08 14:25:12,370]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 231
+[2011-04-08 14:25:32,542]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 232
+[2011-04-08 14:26:15,745]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 234
+[2011-04-08 14:27:15,151]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 235
+[2011-04-08 14:27:59,355]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 233
+[2011-04-08 14:29:46,339]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 236
+[2011-04-08 14:30:39,980]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 238
+[2011-04-08 14:30:41,745]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 237
+[2011-04-08 14:30:53,511]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 239
+[2011-04-08 14:32:22,558]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 240
+[2011-04-08 14:33:36,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 242
+[2011-04-08 14:35:22,651]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 244
+[2011-04-08 14:35:46,261]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 245
+[2011-04-08 14:35:47,745]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 246
+[2011-04-08 14:35:54,995]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 247
+[2011-04-08 14:36:17,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 248
+[2011-04-08 14:36:17,464]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 250
+[2011-04-08 14:36:22,526]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 250
+[2011-04-08 14:40:37,667]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 251
+[2011-04-08 14:40:58,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 252
+[2011-04-08 14:50:02,480]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 254
+[2011-04-08 14:53:39,730]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 258
+[2011-04-08 14:55:07,167]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 259
+[2011-04-08 14:56:32,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 260
+[2011-04-08 14:57:09,292]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 261
+[2011-04-08 14:57:29,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 262
+[2011-04-08 14:59:47,698]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 263
+[2011-04-08 15:03:39,292]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 264
+[2011-04-08 15:05:20,026]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 265
+[2011-04-08 15:06:33,855]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 266
+[2011-04-08 15:06:47,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 268
+[2011-04-08 15:07:11,151]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 269
+[2011-04-08 15:08:07,714]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 271
+[2011-04-08 15:08:37,323]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 272
+[2011-04-08 15:10:46,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 275
+[2011-04-08 15:11:06,667]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 276
+[2011-04-08 15:12:54,105]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 280
+[2011-04-08 15:13:12,089]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 281
+[2011-04-08 15:13:24,823]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 282
+[2011-04-08 15:14:00,901]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 283
+[2011-04-08 15:17:29,261]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 284
+[2011-04-08 15:19:09,089]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 285
+[2011-04-08 15:21:34,480]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 286
+[2011-04-08 15:21:49,151]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 287
+[2011-04-08 15:21:55,839]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 288
+[2011-04-08 15:23:21,058]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 289
+[2011-04-08 15:25:41,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 290
+[2011-04-08 15:28:19,761]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 291
+[2011-04-08 15:29:51,855]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 292
+[2011-04-08 15:30:25,933]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 293
+[2011-04-08 15:32:34,136]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 294
+[2011-04-08 15:33:33,667]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 295
+[2011-04-08 15:33:44,386]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 296
+[2011-04-08 15:35:11,011]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 297
+[2011-04-08 15:37:02,620]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 298
+[2011-04-08 15:40:45,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 299
+[2011-04-08 15:46:13,948]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 15:46:13,948]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112142
+[2011-04-08 15:46:13,980]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 15:46:13:980][040811][040811][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 15:46:39,214]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 300
+[2011-04-08 15:51:37,230]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 305
+[2011-04-08 15:51:44,308]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 306
+[2011-04-08 15:54:09,573]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 307
+[2011-04-08 15:58:58,026]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 308
+[2011-04-08 15:59:17,448]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 309
+[2011-04-08 15:59:33,823]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 310
+[2011-04-08 16:00:07,058]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 311
+[2011-04-08 16:00:39,605]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 312
+[2011-04-08 16:01:18,448]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 313
+[2011-04-08 16:07:20,167]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 314
+[2011-04-08 16:07:59,433]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 315
+[2011-04-08 16:12:24,355]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 316
+[2011-04-08 16:13:32,011]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 317
+[2011-04-08 16:13:49,745]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 318
+[2011-04-08 16:15:17,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 319
+[2011-04-08 16:16:45,120]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 321
+[2011-04-08 16:16:52,667]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 322
+[2011-04-08 16:18:28,636]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 323
+[2011-04-08 16:19:02,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 324
+[2011-04-08 16:20:09,964]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 325
+[2011-04-08 16:20:41,214]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 326
+[2011-04-08 16:21:30,917]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 327
+[2011-04-08 16:22:26,230]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 335
+[2011-04-08 16:22:28,698]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 336
+[2011-04-08 16:22:30,370]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 336
+[2011-04-08 16:24:41,683]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 337
+[2011-04-08 16:26:30,714]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 338
+[2011-04-08 16:27:48,730]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 339
+[2011-04-08 16:30:21,448]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 340
+[2011-04-08 16:33:29,870]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 341
+[2011-04-08 16:34:21,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 342
+[2011-04-08 16:34:56,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 343
+[2011-04-08 16:35:03,308]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 344
+[2011-04-08 16:36:42,870]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 345
+[2011-04-08 16:38:18,245]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 346
+[2011-04-08 16:44:01,714]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 347
+[2011-04-08 16:45:18,933]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 348
+[2011-04-08 16:53:20,855]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 349
+[2011-04-08 16:54:42,792]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 350
+[2011-04-08 16:55:06,573]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 351
+[2011-04-08 16:56:06,730]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 352
+[2011-04-08 16:58:01,323]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 353
+[2011-04-08 16:58:14,886]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 354
+[2011-04-08 17:06:31,011]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 355
+[2011-04-08 17:06:34,495]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 356
+[2011-04-08 17:12:14,230]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 357
+[2011-04-08 17:12:34,870]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 358
+[2011-04-08 17:13:01,343]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 359
+[2011-04-08 17:13:35,468]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 360
+[2011-04-08 17:15:07,296]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 361
+[2011-04-08 17:18:36,171]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 362
+[2011-04-08 17:21:38,875]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 363
+[2011-04-08 17:22:59,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 364
+[2011-04-08 17:25:46,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 365
+[2011-04-08 17:26:07,609]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 366
+[2011-04-08 17:27:14,625]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 367
+[2011-04-08 17:27:16,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 368
+[2011-04-08 17:27:51,062]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 17:27:51,062]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112143
+[2011-04-08 17:27:51,093]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 17:27:51:93][11111110][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 17:27:57,500]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 17:27:57,500]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112144
+[2011-04-08 17:27:57,531]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 17:27:57:531][11111100][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 17:28:02,218]-INFO  (me2.server.login.util.HttpConnUtil:65)|GET_ACCOUNT_ID_URL code = 200
+[2011-04-08 17:28:02,218]-INFO  (me2.server.login.util.HttpConnUtil:72)|Httpconnect getaccountID = 112145
+[2011-04-08 17:28:02,281]-INFO  (me2.server.login.LoginService:967)|创建帐号:[2011-04-08 17:28:02:281][11111000][11111111][null][100][105][1.9.9][暂无][暂无][暂无][0]失败
+[2011-04-08 17:28:02,281]-INFO  (me2.server.login.LoginService:979)|#####　registe success accountID = 112145,sessionID= 369
+[2011-04-08 17:28:02,750]-INFO  (me2.server.login.util.HttpConnUtil:123)|REGISTE_TO_USER_CENTER_URL code = 200
+[2011-04-08 17:28:02,750]-INFO  (me2.server.login.util.HttpConnUtil:131)|REGISTE_TO_USER_CENTER_URL res = 0
+[2011-04-08 17:28:06,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 369
+[2011-04-08 17:28:08,968]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 370
+[2011-04-08 17:28:14,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 371
+[2011-04-08 17:30:42,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 372
+[2011-04-08 17:31:54,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 373
+[2011-04-08 17:32:24,015]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 374
+[2011-04-08 17:34:46,140]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 375
+[2011-04-08 17:34:48,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 376
+[2011-04-08 17:35:01,437]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 377
+[2011-04-08 17:35:12,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 378
+[2011-04-08 17:36:05,734]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 379
+[2011-04-08 17:37:12,921]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 380
+[2011-04-08 17:38:36,812]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 381
+[2011-04-08 17:39:57,921]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 382
+[2011-04-08 17:41:29,515]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 383
+[2011-04-08 17:41:48,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 384
+[2011-04-08 17:44:23,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 385
+[2011-04-08 17:47:06,234]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 386
+[2011-04-08 17:48:32,625]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 387
+[2011-04-08 17:52:39,578]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 388
+[2011-04-08 17:53:42,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 389
+[2011-04-08 18:01:57,390]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 390
+[2011-04-08 18:05:18,218]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 391
+[2011-04-08 18:05:45,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 392
+[2011-04-08 18:06:54,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 393
+[2011-04-08 18:09:32,781]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 394
+[2011-04-08 18:21:48,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 395
+[2011-04-08 18:22:53,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 396
+[2011-04-08 18:25:45,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 397
+[2011-04-08 18:26:29,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 398
+[2011-04-08 18:31:28,359]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 399
+[2011-04-08 18:32:12,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 400
+[2011-04-08 18:32:57,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 401
+[2011-04-08 18:33:45,843]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 402
+[2011-04-08 18:34:51,828]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 403
+[2011-04-08 18:51:07,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=2 ,sessionID= 404
+[2011-04-08 18:51:47,265]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 405
+[2011-04-08 19:00:30,312]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 407
+[2011-04-08 19:02:58,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 408
+[2011-04-08 19:04:53,531]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 409
+[2011-04-08 19:15:18,562]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 420
+[2011-04-08 19:19:12,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 421
+[2011-04-08 19:32:21,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 422
+[2011-04-08 19:33:34,046]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 423
+[2011-04-08 19:35:27,187]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 424
+[2011-04-08 19:39:21,281]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 425
+[2011-04-08 19:41:31,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 427
+[2011-04-08 19:43:41,796]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 428
+[2011-04-08 19:44:03,812]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 429
+[2011-04-08 19:54:40,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 430
+[2011-04-08 19:56:26,406]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 431
+[2011-04-08 19:56:34,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 432
+[2011-04-08 20:06:49,953]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 433
+[2011-04-08 20:09:04,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 436
+[2011-04-08 20:09:52,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 437
+[2011-04-08 20:13:13,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 438
+[2011-04-08 20:16:25,906]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 439
+[2011-04-08 20:17:29,546]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 440
+[2011-04-08 20:28:59,484]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 441
+[2011-04-08 20:30:35,265]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 442
+[2011-04-08 20:32:23,421]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 443
+[2011-04-08 20:40:48,765]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 444
+[2011-04-08 20:42:52,937]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 445
+[2011-04-08 20:45:31,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 446
+[2011-04-08 20:46:00,000]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 447
+[2011-04-08 20:47:15,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 448
+[2011-04-08 20:48:34,750]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 449
+[2011-04-08 20:49:45,078]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 450
+[2011-04-08 20:50:52,093]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 451
+[2011-04-08 20:55:54,375]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 452
+[2011-04-08 20:56:30,328]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 453
+[2011-04-08 20:57:54,062]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 454
+[2011-04-08 21:03:40,500]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 455
+[2011-04-08 21:11:43,703]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 456
+[2011-04-08 21:12:13,250]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=3 ,sessionID= 457
+[2011-04-08 21:12:19,671]-INFO  (me2.server.login.LoginService:392)|#####　进行默认角色信息 serverID=1 ,sessionID= 458

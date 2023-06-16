@@ -1,0 +1,606 @@
+13-Jun-2023 00:15:54.934 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 00:15:54.935 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 00:15:54.937 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 00:17:27.189 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/longtinh] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [42] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+39: 			sresponse.write("102".getBytes());
+40: 			return;
+41: 		}
+42: 		byte [] b2 = DCNService.UnCompress(bytes);
+43: 		System.out.println("9>" + b2.length);
+44: 		if(username.length() == 0 || password.length() == 0 || b2.length <= 0) {
+45: 			//out.write(102);
+
+
+An error occurred at line: [57] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+54: 		if(mid.equals("") || djtk.equals("")) {
+55: 			System.out.println("username1:" + username);
+56: 			System.out.println("password1:" + password);
+57: 			Result result = DCNService.login(username, "", password);
+58: 			if(result.isResult()) {
+59: 				mid = result.getReList();
+60: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [57] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+54: 		if(mid.equals("") || djtk.equals("")) {
+55: 			System.out.println("username1:" + username);
+56: 			System.out.println("password1:" + password);
+57: 			Result result = DCNService.login(username, "", password);
+58: 			if(result.isResult()) {
+59: 				mid = result.getReList();
+60: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [66] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+63: 		if(mid.equals("") || djtk.equals("")) {
+64: 			System.out.println("username2:" + username);
+65: 			System.out.println("password2:" + password);
+66: 			Result result = DCNService.login("", username, password);
+67: 			if(result.isResult()) {
+68: 				mid = result.getReList();
+69: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [66] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+63: 		if(mid.equals("") || djtk.equals("")) {
+64: 			System.out.println("username2:" + username);
+65: 			System.out.println("password2:" + password);
+66: 			Result result = DCNService.login("", username, password);
+67: 			if(result.isResult()) {
+68: 				mid = result.getReList();
+69: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [73] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+me2.server.login.db.LoginDAO cannot be resolved to a type
+70: 			}
+71: 		}
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+
+
+An error occurred at line: [75] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+77: 					mid = result.getReList();
+78: 					djtk = result.getDjtk();
+
+
+An error occurred at line: [75] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+77: 					mid = result.getReList();
+78: 					djtk = result.getDjtk();
+
+
+An error occurred at line: [92] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+ThreadTool cannot be resolved to a type
+89: 	    FileOutputStream out3=new FileOutputStream(fileOut);
+90: 	    out3.write(b2,0,b2.length);
+91: 	    out3.close();
+92: 		ThreadTool tTool = new ThreadTool(mid,djtk,imgtitle,imgdes,"0",playername,imgtype,b2);
+93: 		tTool.start();
+94: 		sresponse.write("0".getBytes());
+95: 		return;
+
+
+An error occurred at line: [92] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+ThreadTool cannot be resolved to a type
+89: 	    FileOutputStream out3=new FileOutputStream(fileOut);
+90: 	    out3.write(b2,0,b2.length);
+91: 	    out3.close();
+92: 		ThreadTool tTool = new ThreadTool(mid,djtk,imgtitle,imgdes,"0",playername,imgtype,b2);
+93: 		tTool.start();
+94: 		sresponse.write("0".getBytes());
+95: 		return;
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [42] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+39: 			sresponse.write("102".getBytes());
+40: 			return;
+41: 		}
+42: 		byte [] b2 = DCNService.UnCompress(bytes);
+43: 		System.out.println("9>" + b2.length);
+44: 		if(username.length() == 0 || password.length() == 0 || b2.length <= 0) {
+45: 			//out.write(102);
+
+
+An error occurred at line: [57] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+54: 		if(mid.equals("") || djtk.equals("")) {
+55: 			System.out.println("username1:" + username);
+56: 			System.out.println("password1:" + password);
+57: 			Result result = DCNService.login(username, "", password);
+58: 			if(result.isResult()) {
+59: 				mid = result.getReList();
+60: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [57] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+54: 		if(mid.equals("") || djtk.equals("")) {
+55: 			System.out.println("username1:" + username);
+56: 			System.out.println("password1:" + password);
+57: 			Result result = DCNService.login(username, "", password);
+58: 			if(result.isResult()) {
+59: 				mid = result.getReList();
+60: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [66] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+63: 		if(mid.equals("") || djtk.equals("")) {
+64: 			System.out.println("username2:" + username);
+65: 			System.out.println("password2:" + password);
+66: 			Result result = DCNService.login("", username, password);
+67: 			if(result.isResult()) {
+68: 				mid = result.getReList();
+69: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [66] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+63: 		if(mid.equals("") || djtk.equals("")) {
+64: 			System.out.println("username2:" + username);
+65: 			System.out.println("password2:" + password);
+66: 			Result result = DCNService.login("", username, password);
+67: 			if(result.isResult()) {
+68: 				mid = result.getReList();
+69: 				djtk = result.getDjtk();
+
+
+An error occurred at line: [73] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+me2.server.login.db.LoginDAO cannot be resolved to a type
+70: 			}
+71: 		}
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+
+
+An error occurred at line: [75] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+Result cannot be resolved to a type
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+77: 					mid = result.getReList();
+78: 					djtk = result.getDjtk();
+
+
+An error occurred at line: [75] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+DCNService cannot be resolved
+72: 		if(mid.equals("") || djtk.equals("")) {
+73: 			int accountid = me2.server.login.db.LoginDAO.login(username,password);
+74: 			if(accountid > 0) {
+75: 				Result result = DCNService.sys(accountid + "", playername, password);
+76: 				if(result.isResult()) {
+77: 					mid = result.getReList();
+78: 					djtk = result.getDjtk();
+
+
+An error occurred at line: [92] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+ThreadTool cannot be resolved to a type
+89: 	    FileOutputStream out3=new FileOutputStream(fileOut);
+90: 	    out3.write(b2,0,b2.length);
+91: 	    out3.close();
+92: 		ThreadTool tTool = new ThreadTool(mid,djtk,imgtitle,imgdes,"0",playername,imgtype,b2);
+93: 		tTool.start();
+94: 		sresponse.write("0".getBytes());
+95: 		return;
+
+
+An error occurred at line: [92] in the jsp file: [/xj_login/dcnuploadimg.jsp]
+ThreadTool cannot be resolved to a type
+89: 	    FileOutputStream out3=new FileOutputStream(fileOut);
+90: 	    out3.write(b2,0,b2.length);
+91: 	    out3.close();
+92: 		ThreadTool tTool = new ThreadTool(mid,djtk,imgtitle,imgdes,"0",playername,imgtype,b2);
+93: 		tTool.start();
+94: 		sresponse.write("0".getBytes());
+95: 		return;
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:531)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:398)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:368)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:352)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+13-Jun-2023 18:14:31.451 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:14:31.451 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:14:31.452 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@482d776b')
+13-Jun-2023 18:14:53.000 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:14:53.000 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:14:53.001 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@f27ea3')
+13-Jun-2023 18:14:53.177 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+13-Jun-2023 18:14:53.177 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+13-Jun-2023 18:14:57.282 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:14:57.282 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:14:57.284 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4bf3798b')
+13-Jun-2023 18:14:57.444 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+13-Jun-2023 18:14:57.444 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+13-Jun-2023 18:15:14.366 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:15:14.366 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:15:14.367 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4bf3798b')
+13-Jun-2023 18:15:14.528 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+13-Jun-2023 18:15:14.528 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+13-Jun-2023 18:15:45.736 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+13-Jun-2023 18:15:45.736 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+13-Jun-2023 18:15:53.856 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:15:53.856 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:15:53.858 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@186978a6')
+13-Jun-2023 18:19:25.789 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:19:25.790 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:19:25.791 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 18:23:19.858 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:23:19.859 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:23:19.861 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 18:25:38.818 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:25:38.818 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:25:38.820 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1643d68f')
+13-Jun-2023 18:27:15.291 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:27:15.291 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:27:15.294 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4052274f')
+13-Jun-2023 18:46:50.450 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:46:50.450 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:46:50.452 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@186978a6')
+13-Jun-2023 18:50:45.410 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:50:45.411 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:50:45.413 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@482d776b')
+13-Jun-2023 18:52:33.731 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:52:33.732 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:52:33.734 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@186978a6')
+13-Jun-2023 18:56:14.358 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:56:14.359 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:56:14.360 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 18:59:31.227 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 18:59:31.228 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 18:59:31.229 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@b40bb6e')
+13-Jun-2023 19:02:48.359 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:02:48.359 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:02:48.361 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 19:05:16.486 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:05:16.486 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:05:16.488 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 19:08:39.163 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:08:39.164 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:08:39.165 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@186978a6')
+13-Jun-2023 19:10:57.240 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:10:57.241 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:10:57.243 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@482d776b')
+13-Jun-2023 19:12:26.835 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:12:26.835 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:12:26.837 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4052274f')
+13-Jun-2023 19:12:27.147 INFO [main] org.apache.catalina.core.ApplicationContext.log Marking servlet [setmsisdn] as unavailable
+13-Jun-2023 19:12:27.148 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [setmsisdn] in web application [/xj_login] threw load() exception
+	java.lang.ClassNotFoundException: loginserver.SetAccountMsisdn
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1412)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1220)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:487)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:469)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:141)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1020)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:960)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4673)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4980)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1184)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1932)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1094)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1328)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1318)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:923)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+13-Jun-2023 19:12:27.148 INFO [main] org.apache.catalina.core.ApplicationContext.log Marking servlet [loginservlet] as unavailable
+13-Jun-2023 19:12:27.148 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [loginservlet] in web application [/xj_login] threw load() exception
+	java.lang.ClassNotFoundException: loginserver.LoginServlet
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1412)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1220)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:487)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:469)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:141)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1020)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:960)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4673)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4980)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1184)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1932)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1094)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1328)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1318)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:923)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+13-Jun-2023 19:12:27.149 INFO [main] org.apache.catalina.core.ApplicationContext.log Marking servlet [smscallback] as unavailable
+13-Jun-2023 19:12:27.149 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [smscallback] in web application [/xj_login] threw load() exception
+	java.lang.ClassNotFoundException: loginserver.SmsCallBack
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1412)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1220)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:487)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:469)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:141)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1020)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:960)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4673)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4980)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1184)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1932)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1094)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1328)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1318)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:923)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+13-Jun-2023 19:12:27.150 INFO [main] org.apache.catalina.core.ApplicationContext.log Marking servlet [resetplayer] as unavailable
+13-Jun-2023 19:12:27.150 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [resetplayer] in web application [/xj_login] threw load() exception
+	java.lang.ClassNotFoundException: loginserver.ResetPlayerStatus
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1412)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1220)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:487)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:469)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:141)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1020)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:960)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4673)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4980)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1184)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1932)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1094)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1328)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1318)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:923)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+13-Jun-2023 19:12:27.151 INFO [main] org.apache.catalina.core.ApplicationContext.log Marking servlet [szfcallback] as unavailable
+13-Jun-2023 19:12:27.151 SEVERE [main] org.apache.catalina.core.StandardContext.loadOnStartup Servlet [szfcallback] in web application [/xj_login] threw load() exception
+	java.lang.ClassNotFoundException: loginserver.SzfCallBack
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1412)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1220)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:487)
+		at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:469)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:141)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1020)
+		at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:960)
+		at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4673)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4980)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1184)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1932)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:1094)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:893)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1328)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1318)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:923)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+13-Jun-2023 19:12:54.797 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:12:54.797 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:12:54.800 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1643d68f')
+13-Jun-2023 19:15:21.543 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:15:21.543 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:15:21.545 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4052274f')
+13-Jun-2023 19:21:06.438 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:21:06.439 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:21:06.441 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@107ed6fc')
+13-Jun-2023 19:25:40.682 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:25:40.682 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:25:40.685 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@186978a6')
+13-Jun-2023 19:43:26.432 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 19:43:26.433 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 19:43:26.434 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1643d68f')
+13-Jun-2023 21:50:57.577 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 21:50:57.577 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 21:50:57.577 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@482d776b')
+13-Jun-2023 21:53:23.512 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 21:53:23.512 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 21:53:23.512 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e029d61')
+13-Jun-2023 21:58:24.180 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Jun-2023 21:58:24.180 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Jun-2023 21:58:24.180 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1643d68f')

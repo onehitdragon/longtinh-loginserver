@@ -1,0 +1,364 @@
+2010-05-31 14:44:57,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 14:45:19,453 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 14:47:35,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 14:47:57,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:17:58,234 [http-7000-Processor24] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-31 17:17:58,234 [http-7000-Processor24] INFO  ME2 - response is null
+2010-05-31 17:27:45,921 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-31 17:27:45,921 [http-7000-Processor25] INFO  ME2 - response is null
+2010-05-31 17:27:54,015 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-05-31 17:27:54,015 [http-7000-Processor25] INFO  ME2 - response is null
+2010-05-31 17:28:43,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:29:05,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:33:33,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:33:54,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:41:24,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:41:45,937 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:42:00,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:42:21,703 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:47:38,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:47:59,796 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:56:45,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:57:06,671 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 17:58:36,234 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 17:58:57,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 18:04:30,468 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 18:04:51,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 18:11:05,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 18:11:29,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-05-31 18:24:35,390 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-05-31 18:24:56,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 09:42:42,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 09:43:04,468 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 10:38:47,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 10:38:47,750 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 10:43:54,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 10:43:54,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 10:44:59,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 10:45:00,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 10:47:30,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 10:47:31,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 11:07:22,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 11:07:23,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 11:14:15,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 11:14:16,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:28:55,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:28:55,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:33:26,031 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:33:26,453 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:33:32,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:33:32,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:34:49,000 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:34:49,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:34:56,000 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-06-01 15:34:56,000 [http-7000-Processor25] INFO  ME2 - response is null
+2010-06-01 15:35:04,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:35:05,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:35:11,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:35:12,125 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:37:16,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:37:16,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:39:17,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:39:17,750 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:39:55,484 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:39:55,906 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:41:44,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:41:45,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:41:52,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:41:52,609 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:43:33,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:43:34,390 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:45:45,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:45:45,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:47:26,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:47:27,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:53:21,625 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:53:22,046 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:54:28,515 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:54:28,921 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:56:06,750 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:56:07,171 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:57:01,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:57:01,875 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 15:57:58,250 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 15:57:58,671 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:05:18,656 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:05:19,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:15:50,906 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:15:51,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:17:58,671 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:17:59,093 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:26:52,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:26:53,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:29:12,578 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:29:13,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:30:02,078 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:30:02,515 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:31:57,546 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:31:57,968 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:32:56,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:32:57,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:40:58,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:40:59,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:41:30,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:41:30,718 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:42:17,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:42:18,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:42:39,875 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:42:40,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:43:11,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:43:12,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:43:37,265 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:43:37,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:44:52,421 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:44:52,843 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:45:20,906 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:45:21,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:46:38,734 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:46:39,156 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:49:28,703 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:49:29,125 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:51:16,953 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:51:17,375 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:54:53,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:54:53,796 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:56:39,750 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:56:40,171 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:57:33,125 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:57:33,562 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:58:21,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:58:21,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:58:46,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:58:47,140 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:59:12,687 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:59:13,109 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:59:28,515 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:59:28,937 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 16:59:50,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 16:59:50,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:00:19,375 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:00:19,796 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:00:43,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:00:44,312 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:00:48,203 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:00:48,609 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:01:08,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:01:09,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:01:44,921 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:01:45,343 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:02:08,984 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:02:09,406 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:02:40,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:02:40,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:03:04,000 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:03:04,421 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:03:22,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:03:22,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:03:42,437 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:03:42,859 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:04:07,406 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:04:07,828 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:04:32,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:04:33,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:04:55,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:04:56,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:05:19,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:05:19,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:05:53,453 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:05:53,875 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:06:12,859 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:06:13,281 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:06:47,046 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:06:47,468 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:07:54,718 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:07:55,140 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:08:18,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:08:19,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:08:41,890 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:08:42,296 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:09:02,312 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:09:02,734 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:09:40,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:09:40,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:10:00,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:10:01,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:10:19,656 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:10:20,078 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:10:37,531 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:10:37,953 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:10:58,781 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:10:59,203 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:14:22,812 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:14:23,234 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:19:49,296 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:19:49,718 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:21:49,343 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:21:49,765 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:39:18,109 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:39:18,531 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:40:29,640 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:40:30,062 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:43:13,171 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:43:13,593 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:44:09,265 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:44:09,687 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:48:52,843 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:48:53,265 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-01 17:52:48,562 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-01 17:52:48,984 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-02 14:26:14,515 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-02 14:26:14,937 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 11:07:38,328 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 11:07:38,812 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 11:16:50,156 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 11:16:50,578 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 11:24:44,609 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 11:24:45,031 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 11:25:12,593 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 11:25:13,000 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 12:05:05,796 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 12:05:06,218 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 15:20:05,937 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 15:20:06,343 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 16:54:45,328 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-06-03 16:54:45,328 [http-7000-Processor25] INFO  ME2 - response is null
+2010-06-03 16:55:01,187 [http-7000-Processor25] ERROR ME2 - 
+me2.server.login.GameServerDownException: 服务器已关闭
+	at me2.server.login.GameService.getRoleList(GameService.java:144)
+	at me2.server.login.LoginService.getRoleList(LoginService.java:1049)
+	at me2.server.login.LoginService.selectServer(LoginService.java:853)
+	at me2.server.login.LoginService.process(LoginService.java:214)
+	at loginserver.LoginServlet.doGet(LoginServlet.java:29)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Thread.java:619)
+2010-06-03 16:55:01,187 [http-7000-Processor25] INFO  ME2 - response is null
+2010-06-03 16:55:54,078 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 16:55:54,500 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 17:04:40,906 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 17:04:41,328 [main] INFO  ME2 - 昵称过滤列表加载完毕
+2010-06-03 17:07:01,656 [main] INFO  ME2 - me2.server.login.db.DBConnectionPool complete init.
+2010-06-03 17:07:02,093 [main] INFO  ME2 - 昵称过滤列表加载完毕
